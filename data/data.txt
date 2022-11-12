@@ -1,0 +1,1007 @@
+Coordenadas Geográficas	Cidade, Estado, País	Specific photovoltaic power output
+-03.220833°,-064.804167°	Alvarães, Amazonas, Brazil	1500.8
+-03.365413°,-068.199573°	Rua José Eufrazio Filho, Amaturá, Amazonas, Brazil	1441.3
+-03.580854°,-061.405912°	Rua Álvaro Maia, Anamã, Amazonas, Brazil	1516.2
+-03.772778°,-061.644167°	Anori, Amazonas, Brazil	1511.3
+-07.196944°,-059.890833°	Rua Treze de Novembro, Apuí, Amazonas, Brazil	1478.7
+-04.371944°,-070.191944°	Travessa Antônio de Souza Braga, Atalaia do Norte, Amazonas, Brazil	1432.1
+-03.58°,-059.130833°	Rua Francisco Barroncas, Autazes, Amazonas, Brazil	1470.4
+-00.975502°,-062.924597°	Avenida Manoel Guimarães, Barcelos, Amazonas, Brazil	1496.1
+-02.792191°,-057.069894°	Avenida Espanha, Barreirinha, Amazonas, Brazil	1531.7
+-04.375732°,-070.027126°	Avenida Castelo Branco, Benjamin Constant, Amazonas, Brazil	1440.6
+-03.897962°,-061.375052°	Rua João Libanio, Beruri, Amazonas, Brazil	1451.2
+-02.97°,-057.59°	Travessa Pimentel, Boa Vista do Ramos, Amazonas, Brazil	1459.1
+-08.751944°,-067.397778°	unnamed road, Boca do Acre, Amazonas, Brazil	1487.2
+-04.38778°,-059.59389°	Avenida Cônego Bento, Borba, Amazonas, Brazil	1502.4
+-03.3275°,-061.208889°	Rua Couto Vale, Caapiranga, Amazonas, Brazil	1483.6
+-06.537146°,-064.387024°	Rua Padre dos Laurindo, Canutama, Amazonas, Brazil	1485.6
+-04.877467°,-066.898668°	Rua Arthur Sá, Carauari, Amazonas, Brazil	1464.3
+-03.767778°,-060.368889°	Careiro, Amazonas, Brazil	1444.0
+-03.220833°,-059.825833°	Careiro da Várzea, Amazonas, Brazil	1505.8
+-04.085°,-063.140833°	Rua Padre José Maria, Coari, Amazonas, Brazil	1495.4
+-03.836944°,-062.056944°	Rua Primeiro de Maio, Codajás, Amazonas, Brazil	1483.6
+-06.66°,-069.873889°	José Caranha, Eirunepé, Amazonas, Brazil	1442.6
+-07.432778°,-070.022778°	Estrada do Cacau, Envira, Amazonas, Brazil	1457.3
+-02.513898°,-066.081369°	Estrada da Bare, Fonte Boa, Amazonas, Brazil	1455.0
+-07.542833°,-072.576704°	Rua Senador João Bosco, Guajará, Amazonas, Brazil	1445.0
+-07.513496°,-063.029114°	Travessa 1, Humaitá, Amazonas, Brazil	1527.4
+-07.050833°,-071.695°	Rua Varcy Herculano, Ipixuna, Amazonas, Brazil	1436.9
+-03.280567°,-060.185109°	Rua Matrinxã, Iranduba, Amazonas, Brazil	1496.2
+-03.135099°,-058.434537°	Rua Borba, Itacoatiara, Amazonas, Brazil	1534.1
+-06.435186°,-068.246249°	Rua Maria Madalena, Itamarati, Amazonas, Brazil	1460.7
+-02.74889°,-058.02194°	Avenida Nazaré, Itapiranga, Amazonas, Brazil	1538.8
+-01.826111°,-066.598889°	Acanauê, Amazonas, Brazil	1436.6
+-03.480833°,-066.068889°	unnamed road, Juruá, Amazonas, Brazil	1424.4
+-02.74379°,-066.769493°	Rua João Coelho, Jutaí, Amazonas, Brazil	1442.7
+-07.260879°,-064.799726°	Rua Coronel Luis Gomes, Lábrea, Amazonas, Brazil	1485.7
+-03.299722°,-060.620556°	Rua Marcílio Dias, Manacapuru, Amazonas, Brazil	1492.8
+-03.428056°,-060.459444°	Rua Luiz Fernandes, Manaquiri, Amazonas, Brazil	1472.4
+-03.106392°,-060.026293°	Avenida João Valério, Manaus, Amazonas, Brazil	1460.2
+-05.813035°,-061.299702°	Travessa Pedro Tinoco, Manicoré, Amazonas, Brazil	1490.2
+-01.855833°,-065.580833°	unnamed road, Maraã, Amazonas, Brazil	1457.0
+-03.38361°,-057.71861°	Rua José Mac Comb, Maués, Amazonas, Brazil	1484.5
+-02.185833°,-056.712778°	Rua Nelson Melo, Nhamundá, Amazonas, Brazil	1571.6
+-03.888215°,-059.093481°	Rua Triunfo, Nova Olinda do Norte, Amazonas, Brazil	1473.2
+-02.620833°,-060.943889°	Avenida Presidente Getulio Vargas, Novo Airão, Amazonas, Brazil	1514.8
+-05.127325°,-060.373544°	Rua Cônego Bento, Novo Aripuanã, Amazonas, Brazil	1497.8
+-02.628852°,-056.735096°	Avenida Getúlo Vargas, Parintins, Amazonas, Brazil	1532.6
+-07.71638°,-067.002506°	Rua Castelo Branco, Pauini, Amazonas, Brazil	1464.7
+-02.017222°,-060.025°	Rodovia Manaus - Boa Vista, Presidente Figueiredo, Amazonas, Brazil	1436.2
+-02.695896°,-059.696677°	Rua Anísio Jobim, Rio Preto da Eva, Amazonas, Brazil	1432.5
+-00.414172°,-065.019938°	Avenida Dom Pedro Massa, Santa Isabel do Rio Negro, Amazonas, Brazil	1465.9
+-03.100451°,-067.946844°	Rua Presidente Médici, Santo Antônio do Içá, Amazonas, Brazil	1451.1
+00.13°,-067.088889°	São Felipe, Amazonas, Brazil	1405.2
+-03.459444°,-068.933333°	Rua Três de Janeiro, São Paulo de Olivença, Amazonas, Brazil	1444.8
+-02.57194°,-057.87083°	Rua Justino de Melo, São Sebastião do Uatumã, Amazonas, Brazil	1539.3
+-02.83889°,-058.20917°	Rua Beira Mar II, Silves, Amazonas, Brazil	1530.5
+-04.2525°,-069.938056°	Rua Bahia, Tabatinga, Amazonas, Brazil	1441.8
+-05.627966°,-063.187867°	Avenida Muraide Said, Tapauá, Amazonas, Brazil	1474.6
+-03.353889°,-064.710833°	Beco Tiradentes, Tefé, Amazonas, Brazil	1488.4
+-02.872778°,-067.801944°	unnamed road, Tonantins, Amazonas, Brazil	1449.0
+-02.985182°,-065.15915°	Rua 19 de Abril, Uarini, Amazonas, Brazil	1485.5
+-02.529424°,-057.761127°	Rua Coronel Liborio, Urucará, Amazonas, Brazil	1544.5
+-03.130833°,-058.155°	Avenida Presidente Getulio Vargas, Urucurituba, Amazonas, Brazil	1466.7
+02.987778°,-061.304444°	Rua Cleber Lima Prado, Alto Alegre, Roraima, Brazil	1510.6
+03.655921°,-061.417811°	Rua das Emas, Amajari, Roraima, Brazil	1588.4
+02.819228°,-060.670655°	Avenida Amazonas, Boa Vista, Roraima, Brazil	1572.7
+03.359971°,-059.836122°	Avenida São Sebastião, Bonfim, Roraima, Brazil	1604.7
+02.609955°,-060.600179°	Rua Mario Candido da Silva, Cantá, Roraima, Brazil	1531.2
+-01.815833°,-061.127778°	Novo Airão, Amazonas, Brazil	1416.2
+00.880798°,-059.696655°	Perimetral Norte, São João da Baliza, Roraima, Brazil	1514.0
+02.181944°,-061.040833°	Rodovia Manaus - Boa Vista, Iracema, Roraima, Brazil	1542.4
+02.43°,-060.9°	Mucajaí, Roraima, Brazil	1543.7
+03.879479°,-059.634498°	Rua Cícero Gelb de Lima, Normandia, Roraima, Brazil	1598.8
+04.430833°,-061.145833°	Pacaraima, Roraima, Brazil	1612.6
+00.947092°,-060.425326°	Rua Araguaia, Rorainópolis, Roraima, Brazil	1516.4
+00.950833°,-059.910833°	São Francisco, São João da Baliza, Roraima, Brazil	1505.3
+01.013261°,-060.037806°	Rua Paiva Brasil, São Luiz, Roraima, Brazil	1510.3
+04.595012°,-060.16245°	unnamed road, Uiramutã, Roraima, Brazil	1632.1
+-24.95299°,-050.110824°	Rua das Águas Marinhas, Carambeí, Paraná, Brazil	1487.5
+-24.792233°,-050.011684°	Rua Dom Pedro II, Castro, Paraná, Brazil	1458.8
+-24.568563°,-049.420745°	Rua João Gabriel de Oliveira, Doutor Ulysses, Paraná, Brazil	1359.7
+-24.533936°,-049.925579°	Rodovia Senador Flávio Carvalho Guimarães, Piraí do Sul, Paraná, Brazil	1504.3
+02.05108°,-050.7945°	Avenida Alves da Cunha, Amapá, Amapá, Brazil	1514.3
+02.497778°,-050.948889°	Rua Jorge Barreto, Calçoene, Amapá, Brazil	1536.5
+00.966675°,-050.797671°	Avenida Manoel Raimundo Pereira, Cutias, Amapá, Brazil	1501.3
+00.857778°,-051.18°	Avenida Coaracy Nunes, Ferreira Gomes, Amapá, Brazil	1513.2
+00.603915°,-050.699886°	Rua São Benedito, Itaubal, Amapá, Brazil	1543.8
+-00.840296°,-052.520149°	Avenida Tancredo Neves, Laranjal do Jari, Amapá, Brazil	1533.1
+00.033889°,-051.35°	Igarapé do Lago, Amapá, Brazil	1538.1
+-00.115°,-051.288889°	Avenida Prefeito Osmundo Costa, Mazagão, Amapá, Brazil	1588.5
+03.842778°,-051.835°	Avenida Barão do Rio Branco, Oiapoque, Amapá, Brazil	1449.7
+00.779444°,-051.948889°	Rua José Pereira Sobrinho, Pedra Branca do Amaparí, Amapá, Brazil	1499.9
+00.712778°,-051.412778°	Avenida Joaquim Frazão de Araújo, Porto Grande, Amapá, Brazil	1462.5
+01.743611°,-050.784444°	Rua Elogio Ferreira, Pracuúba, Amapá, Brazil	1484.3
+-00.043384°,-051.174137°	Avenida 15 de Novembro, Santana, Amapá, Brazil	1583.3
+00.866873°,-052.025769°	Cachaço, Amapá, Brazil	1492.0
+01.505737°,-050.911344°	Rua São Luís, Tartarugalzinho, Amapá, Brazil	1472.6
+-01.123611°,-051.995833°	Rua Salvador Diniz, Vitória do Jari, Amapá, Brazil	1566.5
+-15.779384°,-047.925738°	N1, Brasília, Federal District, Brazil	1688.6
+-23.253611°,-045.687778°	Rua Benedito dos Santos, Jambeiro, São Paulo, Brazil	1510.8
+-23.381934°,-045.458101°	Avenida Benedito Matarazzo Sobrinho, Natividade da Serra, São Paulo, Brazil	1489.8
+-23.386111°,-045.662222°	Rua Major Soares, Paraibuna, São Paulo, Brazil	1504.7
+-23.283711°,-045.531322°	Rodovia Otacílio Fernandes da Silva, Redenção da Serra, São Paulo, Brazil	1515.9
+-23.402565°,-045.887251°	Rua Biagino Chieffi, Santa Branca, São Paulo, Brazil	1502.7
+-23.846111°,-046.629722°	Riacho Grande, São Paulo, Brazil	1373.9
+-23.846111°,-046.629722°	Riacho Grande, São Paulo, Brazil	1373.9
+-24.276605°,-047.234058°	unnamed road, Pedro de Toledo, São Paulo, Brazil	1296.8
+-23.846111°,-046.629722°	Riacho Grande, São Paulo, Brazil	1373.9
+-29.998876°,-051.076248°	Rua Nilzo Ramires, Alvorada, Rio Grande do Sul, Brazil	1474.2
+-30.866667°,-052.25°	ERS-354, Amaral Ferrador, Rio Grande do Sul, Brazil	1458.6
+-30.912445°,-051.49865°	Avenida Presidente Vargas, Arambaré, Rio Grande do Sul, Brazil	1513.9
+-31.442815°,-052.422948°	unnamed road, Arroio do Padre, Rio Grande do Sul, Brazil	1435.3
+-29.550833°,-049.888889°	Rua Independência, Arroio do Sal, Rio Grande do Sul, Brazil	1470.6
+-30.076906°,-051.728615°	Avenida Pedro Fantin, Arroio dos Ratos, Rio Grande do Sul, Brazil	1484.7
+-32.238348°,-053.086314°	Rua Doutor Monteiro, Arroio Grande, Rio Grande do Sul, Brazil	1495.0
+-31.32°,-054.106944°	Avenida Marechal Floriano, Bagé, Rio Grande do Sul, Brazil	1541.8
+-30.246944°,-050.232778°	Rua Navegantes, Pinhal-Sede, Rio Grande do Sul, Brazil	1501.5
+-30.383333°,-051.733333°	ERS-711, Barão do Triunfo, Rio Grande do Sul, Brazil	1435.2
+-30.291133°,-051.302837°	Avenida Visconde do Rio Grande, Barra do Ribeiro, Rio Grande do Sul, Brazil	1505.9
+-30.118026°,-051.963989°	Rua Piratini, Butiá, Rio Grande do Sul, Brazil	1498.7
+-30.85°,-051.816667°	Rua Sete de Setembro, Camaquã, Rio Grande do Sul, Brazil	1457.8
+-31.6°,-053.733333°	unnamed road, Jaguarão Grande, Rio Grande do Sul, Brazil	1526.0
+-31.4°,-052.683333°	Rua 25 de Julho, Primeiro Distrito, Rio Grande do Sul, Brazil	1469.6
+-29.743224°,-050.009885°	Rua Divisória, Capão da Canoa, Rio Grande do Sul, Brazil	1488.6
+-32.237778°,-053.086944°	Rua Dom Pedro II, Arroio Grande, Rio Grande do Sul, Brazil	1495.0
+-30.143521°,-050.509715°	Avenida Adrião Monteiro, Capivari do Sul, Rio Grande do Sul, Brazil	1486.0
+-29.79057°,-050.433536°	unnamed road, Caraá, Rio Grande do Sul, Brazil	1444.6
+-31.854726°,-052.81467°	Rua Doutor Jacques da Rosa Machado, Cerrito, Rio Grande do Sul, Brazil	1477.4
+-30.59°,-051.738889°	ERS-715, Cerro Grande do Sul, Rio Grande do Sul, Brazil	1430.1
+-29.966667°,-051.633333°	Rua Padre Pinto, Charqueadas, Rio Grande do Sul, Brazil	1487.4
+-33.68941°,-053.454195°	Rua Nestor C. de Andrade, Chuí, Rio Grande do Sul, Brazil	1551.9
+-30.747068°,-051.982799°	Rodovia Romildo Maciejewski, Chuvisca, Rio Grande do Sul, Brazil	1454.6
+-30.160833°,-050.233889°	ERS-784, Cidreira, Rio Grande do Sul, Brazil	1492.0
+-30.998892°,-052.050416°	Rua do Turismo, Cristal, Rio Grande do Sul, Brazil	1457.7
+-30.7°,-052.116667°	Estrada Velha, Dom Feliciano, Rio Grande do Sul, Brazil	1439.8
+-30.967°,-054.667°	Rua Duque de Caxias, Dom Pedrito, Rio Grande do Sul, Brazil	1568.6
+-29.369555°,-049.849944°	Rua Padre Jorge, Dom Pedro de Alcântara, Rio Grande do Sul, Brazil	1420.5
+-29.997289°,-051.308177°	Avenida Emancipação, Sede, Rio Grande do Sul, Brazil	1489.9
+-30.533333°,-052.516667°	unnamed road, Encruzilhada do Sul, Rio Grande do Sul, Brazil	1527.3
+-30.118333°,-051.321389°	unnamed road, Guaíba, Rio Grande do Sul, Brazil	1483.7
+-32.026876°,-053.395343°	Rua Júlio de Castilhos, Herval, Rio Grande do Sul, Brazil	1498.0
+-31.4°,-053.883333°	Rua 536, Hulha Negra, Rio Grande do Sul, Brazil	1529.4
+-29.975°,-050.127778°	Rua Alegrete, Imbé, Rio Grande do Sul, Brazil	1488.4
+-29.488889°,-050.105°	Rua Eugênio Bobsin, Itati, Rio Grande do Sul, Brazil	1342.1
+-32.565695°,-053.377522°	Rua 27 de Janeiro, Jaguarão, Rio Grande do Sul, Brazil	1516.5
+-30.810783°,-053.898036°	Rua Coronel Mesa, Lavras do Sul, Rio Grande do Sul, Brazil	1531.9
+-29.2115°,-049.9355°	Estrada Nova Praia Grande, Mampituba, Rio Grande do Sul, Brazil	1363.2
+-29.676717°,-050.205908°	Rua Padre Atanásio Orth, Maquiné, Rio Grande do Sul, Brazil	1383.8
+-30.353334°,-051.584267°	Rua Daltro Filho, Mariana Pimentel, Rio Grande do Sul, Brazil	1456.5
+-30.144168°,-052.046941°	Rua Rodolfo Souza, Minas do Leão, Rio Grande do Sul, Brazil	1503.2
+-29.364981°,-049.932662°	Avenida João Francisco Becker, Morrinhos do Sul, Rio Grande do Sul, Brazil	1345.0
+-31.595822°,-052.626319°	Avenida dos Pinhais, Morro Redondo, Rio Grande do Sul, Brazil	1453.6
+-31.1°,-050.95°	Mostardas, Rio Grande do Sul, Brazil	1505.9
+-31.866482°,-052.818024°	Avenida Bento Gonçalves, Pedro Osório, Rio Grande do Sul, Brazil	1478.6
+-30.266667°,-050.516667°	unnamed road, Palmares do Sul, Rio Grande do Sul, Brazil	1491.5
+-30.183333°,-052.366667°	Rua Rogerio Dias Trindade, Pantano Grande, Rio Grande do Sul, Brazil	1515.9
+-31.732778°,-053.583889°	Rua Capistrano de Abreu, Pedras Altas, Rio Grande do Sul, Brazil	1536.7
+-31.866482°,-052.818024°	Avenida Bento Gonçalves, Pedro Osório, Rio Grande do Sul, Brazil	1478.6
+-31.746613°,-052.335393°	Rua Guilherme Wetzel, Sede, Rio Grande do Sul, Brazil	1479.8
+-31.574361°,-053.385858°	Rua Pedro Regio, Pinheiro Machado, Rio Grande do Sul, Brazil	1522.4
+-31.447778°,-053.103889°	Linha Farroupilha, Piratini, Rio Grande do Sul, Brazil	1497.4
+-30.027679°,-051.22864°	Rua Siqueira Campos, Porto Alegre, Rio Grande do Sul, Brazil	1485.6
+-32.035°,-052.098611°	Rua General Netto, Rio Grande, Rio Grande do Sul, Brazil	1526.7
+-33.5338°,-053.3496°	Rua José Bernadino de Souza Castro, Santa Vitória do Palmar, Rio Grande do Sul, Brazil	1543.1
+-29.833333°,-050.533333°	Rua Santino Ferulo tedesco, Santo Antônio da Patrulha, Rio Grande do Sul, Brazil	1464.8
+-29.958889°,-051.721944°	Rua Barão do Rio Branco, São Jerônimo, Rio Grande do Sul, Brazil	1487.2
+-32.015525°,-052.043127°	Rua Borges de Medeiros, São José do Norte, Rio Grande do Sul, Brazil	1530.3
+-31.362908°,-051.978501°	Rua Marechal Deodoro, São Lourenço do Sul, Rio Grande do Sul, Brazil	1511.2
+-30.613675°,-051.577221°	Rua Hermes Rodel, Sentinela do Sul, Rio Grande do Sul, Brazil	1451.2
+-30.46°,-051.602778°	unnamed road, Sertão Santana, Rio Grande do Sul, Brazil	1432.7
+-30.673941°,-051.396943°	Avenida Assis Brasil, Tapes, Rio Grande do Sul, Brazil	1507.8
+-31.2876°,-051.0945°	Rua Abílio Vieira Paiva, Tavares, Rio Grande do Sul, Brazil	1532.5
+-29.583333°,-050.066667°	Rua 13 de Abril, Terra de Areia, Rio Grande do Sul, Brazil	1419.2
+-29.330234°,-049.74178°	Rua Cabo Braga, Torres, Rio Grande do Sul, Brazil	1467.2
+-29.966667°,-050.133333°	Rua Sobradinho, Imbé, Rio Grande do Sul, Brazil	1489.8
+-29.45°,-049.933333°	Estrada Para Oliveirinha, Três Cachoeiras, Rio Grande do Sul, Brazil	1385.5
+-29.536944°,-050.063889°	Avenida dos Imigrantes, Três Forquilhas, Rio Grande do Sul, Brazil	1373.5
+-31.41849°,-052.176196°	Avenida Arthur Lange, Turuçu, Rio Grande do Sul, Brazil	1473.5
+-30.08116°,-051.023964°	Rua General Osório, Sede, Rio Grande do Sul, Brazil	1467.5
+-29.800833°,-050.043889°	Rua Rio Apucae, Xangri-lá, Rio Grande do Sul, Brazil	1484.7
+-28.274984°,-049.167989°	Rua Bernardo Locks, Braço do Norte, Santa Catarina, Brazil	1397.2
+-28.35°,-049.3°	Rua Augusto Baggio, Orleans, Santa Catarina, Brazil	1362.2
+-28.435761°,-049.184622°	Rua Teodoro Zabot, Pedras Grandes, Santa Catarina, Brazil	1373.0
+-28.3258°,-049.1767°	Rua Padre Roher, São Ludgero, Santa Catarina, Brazil	1386.0
+-28.476482°,-049.016995°	Rua Simeão Esmeraldino de Menezes, Tubarão, Santa Catarina, Brazil	1421.9
+-28.9846°,-049.6426°	Rodovia Alfredo Gustavo Brillinger, Ermo, Santa Catarina, Brazil	1412.0
+-29°,-049.766667°	Rua Irmãos Trevisol, Jacinto Machado, Santa Catarina, Brazil	1379.7
+-23.998894°,-046.413544°	Avenida Ministro Marcos Freire, Praia Grande, São Paulo, Brazil	1291.3
+-29.1361°,-049.7°	unnamed road, Santa Rosa do Sul, Santa Catarina, Brazil	1417.8
+-29.1039°,-049.6289°	Avenida Quintino Manoel Domingos, Sombrio, Santa Catarina, Brazil	1449.1
+-28.8317°,-049.844224°	Rua Pedro Zili, Timbé do Sul, Santa Catarina, Brazil	1333.7
+-28.925833°,-049.678889°	Rua Ângelo Andrea Scarabelot, Turvo, Santa Catarina, Brazil	1398.4
+-27.610556°,-051.022778°	Rua Valeriano Demeneck, Abdon Batista, Santa Catarina, Brazil	1469.6
+-26.564722°,-052.328333°	Rua Marechal Cândido Rondon, Abelardo Luz, Santa Catarina, Brazil	1567.9
+-27.410643°,-049.829403°	Avenida Oscar Zwicker, Agrolândia, Santa Catarina, Brazil	1343.9
+-27.264654°,-049.711324°	Rua Hermenegildo Claudino, Agronômica, Santa Catarina, Brazil	1324.2
+-26.9978°,-051.5558°	Avenida da Independência, Água Doce, Santa Catarina, Brazil	1517.7
+-27.07218°,-052.987385°	Rua Joaçaba, Águas de Chapecó, Santa Catarina, Brazil	1530.5
+-26.879942°,-052.862152°	Rua Dionísio Santi, Águas Frias, Santa Catarina, Brazil	1534.2
+-27.695469°,-048.824165°	Avenida Coronel Antonio Lehmkuhl, Águas Mornas, Santa Catarina, Brazil	1321.3
+-27.70044°,-049.333723°	Rua Claudiono Mariotti, Alfredo Wagner, Santa Catarina, Brazil	1373.2
+-27.433333°,-051.866667°	unnamed road, Ipira, Santa Catarina, Brazil	1535.7
+-26.536889°,-053.331465°	Rua Mato Grosso, Anchieta, Santa Catarina, Brazil	1550.3
+-27.569374°,-048.984458°	Rua São Francisco, Angelina, Santa Catarina, Brazil	1300.9
+-27.001944°,-051.405833°	Rua Germânica, Treze Tílias, Santa Catarina, Brazil	1519.3
+-27.516944°,-048.767778°	Rua Daniel Petry, Antônio Carlos, Santa Catarina, Brazil	1329.3
+-27.033333°,-049.416667°	Apiúna, Santa Catarina, Brazil	1308.6
+-27.166667°,-052.116667°	Linha Progresso, Arabutã, Santa Catarina, Brazil	1508.5
+-26.373806°,-048.718673°	Rua Crespim Lídio Corrêa, Araquari, Santa Catarina, Brazil	1277.8
+-28.940577°,-049.477944°	Rua Maestro Serafim Silva, Araranguá, Santa Catarina, Brazil	1450.0
+-26.866699°,-051.3167°	Macieira, Santa Catarina, Brazil	1451.9
+-27.075258°,-052.459552°	Rua do Passo, Arvoredo, Santa Catarina, Brazil	1514.4
+-26.960701°,-049.376435°	Rua Sete de Setembro, Ascurra, Santa Catarina, Brazil	1279.5
+-27.42°,-049.7808°	Rua São José, Atalanta, Santa Catarina, Brazil	1355.1
+-27.315328°,-049.636903°	Rua XV de Novembro, Aurora, Santa Catarina, Brazil	1311.0
+-28.984223°,-049.413538°	Rua Forquilhinha, Balneário Arroio do Silva, Santa Catarina, Brazil	1472.0
+-26.457222°,-048.611389°	Rua Ilhota, Balneário Barra do Sul, Santa Catarina, Brazil	1340.2
+-26.99528°,-048.63556°	Rua 1970, Balneário Camboriú, Santa Catarina, Brazil	1373.2
+-29.1569°,-049.5789°	Rua Vilson Manoel Valerim, Balneário Gaivota, Santa Catarina, Brazil	1470.3
+-26.768889°,-053.637778°	Rua João Bataglin, Bandeirante, Santa Catarina, Brazil	1538.4
+-26.653889°,-053.44°	Rua Itamarati, Barra Bonita, Santa Catarina, Brazil	1522.5
+-26.615556°,-048.684722°	unnamed road, Barra Velha, Santa Catarina, Brazil	1349.9
+-26.276595°,-050.463911°	unnamed road, Bela Vista do Toldo, Santa Catarina, Brazil	1357.2
+-26.844248°,-053.579704°	Avenida Presidente Getúlio Vargas, Belmonte, Santa Catarina, Brazil	1550.0
+-26.774143°,-049.370586°	Rua Jorge Lacerda, Benedito Novo, Santa Catarina, Brazil	1277.0
+-27.494617°,-048.656127°	Rua Barão do Rio Branco, Biguaçu, Santa Catarina, Brazil	1372.7
+-26.918942°,-049.066057°	Rua XV de Novembro, Blumenau, Santa Catarina, Brazil	1303.8
+-27.744565°,-049.944792°	Rua João Assink, Bocaina do Sul, Santa Catarina, Brazil	1404.6
+-28.333333°,-049.633333°	unnamed road, Bom Jardim da Serra, Santa Catarina, Brazil	1503.2
+-26.69°,-053.0978°	Avenida Cristo Rei, Bom Jesus do Oeste, Santa Catarina, Brazil	1544.2
+-27.79722°,-049.48917°	Rua 14 de Janeiro, Bom Retiro, Santa Catarina, Brazil	1397.9
+-27.133301°,-048.533298°	Rua Pedro Jacinto Dias, Porto Belo, Santa Catarina, Brazil	1408.0
+-27.196901°,-049.081461°	Rua Humberto Mazzolli, Botuverá, Santa Catarina, Brazil	1277.5
+-27.35°,-049.9°	Estrada Ribeirão Concórdia, Braço do Trombudo, Santa Catarina, Brazil	1337.1
+-27.305833°,-050.867778°	unnamed road, Brunópolis, Santa Catarina, Brazil	1467.7
+-27.094925°,-048.914808°	Rua Felipe Schmidt, Brusque, Santa Catarina, Brazil	1299.3
+-26.725°,-051.015°	Linha Horto Florestal, Caçador, Santa Catarina, Brazil	1440.5
+-27.0719°,-053.2478°	Rua do Comércio, Caibi, Santa Catarina, Brazil	1530.5
+-26.6°,-051.0969°	Rua Miguel Dzumman, Calmon, Santa Catarina, Brazil	1436.7
+-26.986438°,-048.642907°	Rua Dinamarca, Balneário Camboriú, Santa Catarina, Brazil	1350.2
+-26.192778°,-049.265833°	Rua Padre Luiz Gilg, Campo Alegre, Santa Catarina, Brazil	1348.1
+-27.898514°,-050.757329°	Rua Major Teodósio Furtado, Campo Belo do Sul, Santa Catarina, Brazil	1496.2
+-26.395318°,-053.079029°	Rua Padre Saporeti, Campo Erê, Santa Catarina, Brazil	1587.5
+-27.401944°,-051.225°	Rua Coronel Pedro Carlos, Campos Novos, Santa Catarina, Brazil	1540.0
+-27.264713°,-048.767803°	Rua Valentin Pereira de Melo, Canelinha, Santa Catarina, Brazil	1341.0
+-26.1778°,-050.390486°	Rua Frei Menandro Kamps, Canoinhas, Santa Catarina, Brazil	1360.9
+-27.936816°,-050.514679°	Rodovia Padre Edilson José da Silva, Capão Alto, Santa Catarina, Brazil	1465.8
+-27.3439°,-051.6119°	Rua Aparicio Ribeiro, Capinzal, Santa Catarina, Brazil	1526.1
+-28.466667°,-049.006944°	Rua Januário Corrêa Bittencourt, Tubarão, Santa Catarina, Brazil	1425.7
+-27.070833°,-051.661944°	Rua Duque de Caxias, Catanduvas, Santa Catarina, Brazil	1536.9
+-27.154729°,-052.883°	Rua Pedro Ivo Campos, Caxambu do Sul, Santa Catarina, Brazil	1549.1
+-27.633433°,-051.337154°	Rua Aurélio Spagnoli, Celso Ramos, Santa Catarina, Brazil	1539.6
+-27.797498°,-050.873266°	Avenida Orides Delfes Furtado, Cerro Negro, Santa Catarina, Brazil	1494.9
+-27.5908°,-049.5539°	Avenida 29 de Novembro, Chapadão do Lageado, Santa Catarina, Brazil	1376.8
+-27.095224°,-052.618168°	Rua Sete de Setembro - E, Chapecó, Santa Catarina, Brazil	1557.5
+-27.233889°,-052.027778°	Rua Prefeito Domingos Machado de Lima, Concórdia, Santa Catarina, Brazil	1534.6
+-26.986321°,-052.603811°	Rua Silvia Tozzo, Cordilheira Alta, Santa Catarina, Brazil	1551.4
+-26.9333°,-052.783298°	unnamed road, Nova Itaberaba, Santa Catarina, Brazil	1530.7
+-26.5°,-052.65°	unnamed road, Coronel Martins, Santa Catarina, Brazil	1557.5
+-27.587277°,-050.365088°	Rua Juscelino Kubstchek de Oliveira, Correia Pinto, Santa Catarina, Brazil	1418.1
+-26.426014°,-049.243449°	Rua Padre Vicente Schmitz, Corupá, Santa Catarina, Brazil	1268.2
+-28.678297°,-049.370396°	Rua Cônego Miguel Giacca, Criciúma, Santa Catarina, Brazil	1380.4
+-26.892682°,-053.171931°	Rua Moura Brasil, Cunha Porã, Santa Catarina, Brazil	1546.4
+-26.9689°,-053.0928°	Avenida Quatro de Julho, Cunhataí, Santa Catarina, Brazil	1526.5
+-27.3°,-050.575°	Rua Cornélio de Haro Varella, Curitibanos, Santa Catarina, Brazil	1458.3
+-26.824182°,-053.502219°	Avenida Santa Helena, Descanso, Santa Catarina, Brazil	1535.5
+-26.25°,-053.633333°	Rua Santa Terezinha, Barracão, Paraná, Brazil	1594.4
+-26.986464°,-049.724336°	Rua Alberto Koglin, Dona Emma, Santa Catarina, Brazil	1310.3
+-26.716458°,-049.485847°	Rua Duque de Caxias, Doutor Pedrinho, Santa Catarina, Brazil	1288.4
+-28.9846°,-049.6426°	Rodovia Alfredo Gustavo Brillinger, Ermo, Santa Catarina, Brazil	1412.0
+-27.283333°,-051.433333°	Rua da Gruta, Erval Velho, Santa Catarina, Brazil	1529.2
+-26.854592°,-052.261436°	Travessa da Torre, Faxinal dos Guedes, Santa Catarina, Brazil	1578.6
+-26.778338°,-053.350559°	SC-161, Flor do Sertão, Santa Catarina, Brazil	1524.5
+-27.5935°,-048.55854°	Rua Hoepcke, Florianópolis, Santa Catarina, Brazil	1410.7
+-26.648611°,-052.796389°	Rodovia Engenheiro Félix Malburg, Formosa do Sul, Santa Catarina, Brazil	1525.7
+-27.026111°,-050.921389°	Rua Padre Biagio Simonetti, Fraiburgo, Santa Catarina, Brazil	1492.3
+-27.173566°,-050.806865°	Rua Adolfo Soleti, Frei Rogério, Santa Catarina, Brazil	1467.8
+-26.455°,-052.6858°	Rua Santos Dumont, Galvão, Santa Catarina, Brazil	1560.8
+-28.0233°,-048.6222°	Rua César Gasola Lopes, Garopaba, Santa Catarina, Brazil	1413.0
+-26.0269°,-048.855°	Rua Duque de Caxias, Garuva, Santa Catarina, Brazil	1161.3
+-26.931802°,-048.959341°	Rua Arnoldo Schramm, Gaspar, Santa Catarina, Brazil	1307.0
+-26.427778°,-051.315833°	Rua Paulo Oliquevicz, General Carneiro, Paraná, Brazil	1395.3
+-27.315°,-048.5589°	Avenida Bela Vista, Governador Celso Ramos, Santa Catarina, Brazil	1391.6
+-27.085785°,-048.986968°	Rua Carlos Nuss, Guabiruba, Santa Catarina, Brazil	1272.3
+-26.597978°,-053.52148°	Rua Primeiro de Maio, Guaraciaba, Santa Catarina, Brazil	1549.5
+-26.473521°,-049.003449°	Rua Padre Mathias Maria Stein, Guaramirim, Santa Catarina, Brazil	1245.7
+-25.9°,-048.566667°	Avenida Brejatuba, Guaratuba, Paraná, Brazil	1305.1
+-26.3853°,-053.5278°	Rua São Paulo, Guarujá do Sul, Santa Catarina, Brazil	1568.1
+-27.15°,-048.5°	Rua Baleia Jubarte, Bombinhas, Santa Catarina, Brazil	1416.9
+-32.026876°,-053.395343°	Rua Júlio de Castilhos, Herval, Rio Grande do Sul, Brazil	1498.0
+-27.17951°,-051.239123°	Rua Oreste Felipe, Ibiam, Santa Catarina, Brazil	1501.1
+-27.116667°,-051.4°	Rodovia Engenheiro Linneu Luiz Bonato, Ibicaré, Santa Catarina, Brazil	1517.3
+-27.066667°,-049.516667°	unnamed road, Ibirama, Santa Catarina, Brazil	1328.4
+-28.713333°,-049.3°	unnamed road, Içara, Santa Catarina, Brazil	1422.1
+-26.899818°,-048.827298°	Rua 21 de Junho, Ilhota, Santa Catarina, Brazil	1310.0
+-28.35°,-048.816667°	Rua Diogo Teixeira de Medeiros, Imaruí, Santa Catarina, Brazil	1419.2
+-28.233333°,-048.666667°	Rua Dorlin Nunes, Imbituba, Santa Catarina, Brazil	1442.7
+-24.867°,-051°	Rodovia Jean Maurice Faivre, Cândido de Abreu, Paraná, Brazil	1520.3
+-26.897404°,-049.231666°	Rua Marechal Floriano Peixoto, Indaial, Santa Catarina, Brazil	1318.6
+-27.016667°,-051.25°	unnamed road, Iomerê, Santa Catarina, Brazil	1481.1
+-27.403748°,-051.777439°	Rua Independência, Ipira, Santa Catarina, Brazil	1525.1
+-26.987956°,-053.535003°	Rua Sete de Setembro, Iporã do Oeste, Santa Catarina, Brazil	1543.8
+-26.635475°,-052.455429°	unnamed road, Ipuaçu, Santa Catarina, Brazil	1562.2
+-27.076286°,-052.136169°	Rua Tiradentes, Ipumirim, Santa Catarina, Brazil	1511.2
+-26.833333°,-053.25°	unnamed road, Iraceminha, Santa Catarina, Brazil	1521.4
+-27.025°,-051.901944°	Rua General Ozório, Irani, Santa Catarina, Brazil	1549.7
+-26.655833°,-052.891944°	Rua João Beux Sobrinho, Irati, Santa Catarina, Brazil	1524.7
+-26.238721°,-050.802476°	Avenida 22 de Julho, Irineópolis, Santa Catarina, Brazil	1353.6
+-27.266667°,-052.316667°	unnamed road, Itá, Santa Catarina, Brazil	1528.2
+-26.335833°,-049.905833°	Avenida Tancredo Neves, Itaiópolis, Santa Catarina, Brazil	1379.6
+-26.9°,-048.666667°	Avenida Coronel Eugênio Müller, Itajaí, Santa Catarina, Brazil	1372.9
+-27.091095°,-048.611986°	Avenida Governador Celso Ramos, Itapema, Santa Catarina, Brazil	1352.3
+-27.167936°,-053.712951°	Rua São José, Itapiranga, Santa Catarina, Brazil	1502.2
+-26.116944°,-048.615833°	Rodovia Governador Pedro Ivo Campos, Itapoá, Santa Catarina, Brazil	1302.8
+-27.416667°,-049.6°	Rua Raulino Kretzer, Ituporanga, Santa Catarina, Brazil	1323.1
+-27.17304°,-051.737921°	Rua São Roque, Jaborá, Santa Catarina, Brazil	1527.0
+-29°,-049.766667°	Rua Irmãos Trevisol, Jacinto Machado, Santa Catarina, Brazil	1379.7
+-28.615°,-049.0256°	Rodovia Arno Arnaldo Nápoli, Jaguaruna, Santa Catarina, Brazil	1455.8
+-26.485025°,-049.066769°	Rua Bernardo Dornbusch, Jaraguá do Sul, Santa Catarina, Brazil	1268.7
+-26.721105°,-052.860013°	Avenida Getúlio Vargas, Jardinópolis, Santa Catarina, Brazil	1532.8
+-27.173293°,-051.509404°	Rua Coronel Artur Pereira, Joaçaba, Santa Catarina, Brazil	1505.6
+-26.3204°,-048.8437°	Rua Joaquim André de Sá, Joinville, Santa Catarina, Brazil	1244.1
+-26.916667°,-049.666667°	unnamed road, José Boiteux, Santa Catarina, Brazil	1299.0
+-26.450001°,-052.666698°	unnamed road, Galvão, Santa Catarina, Brazil	1565.0
+-27.26188°,-051.55704°	Rua Trinta e Um de Março, Lacerdópolis, Santa Catarina, Brazil	1509.8
+-27.81648°,-050.326778°	Rua Frei Rogério, Lages, Santa Catarina, Brazil	1442.3
+-28.482618°,-048.781498°	Rua Tenente Bessa, Laguna, Santa Catarina, Brazil	1453.3
+-27.216667°,-049.75°	Beco S.D. 30, Laurentino, Santa Catarina, Brazil	1320.8
+-28.389659°,-049.392421°	Rua 20 de Janeiro, Lauro Müller, Santa Catarina, Brazil	1361.8
+-26.933333°,-050.7°	unnamed road, Lebon Régis, Santa Catarina, Brazil	1475.1
+-27.507456°,-049.28645°	Rua Jorge Lacerda, Leoberto Leal, Santa Catarina, Brazil	1315.2
+-27.052338°,-052.085238°	Rua Padre Isidoro Benjamin Moro, Lindóia do Sul, Santa Catarina, Brazil	1523.1
+-27.166524°,-049.541731°	Rua Oswaldo Schroeder, Lontras, Santa Catarina, Brazil	1331.9
+-26.711162°,-048.912998°	Rua Professor Simão Hess, Luiz Alves, Santa Catarina, Brazil	1246.5
+-27.116667°,-051.466667°	unnamed road, Luzerna, Santa Catarina, Brazil	1499.4
+-26.85°,-051.383333°	unnamed road, Macieira, Santa Catarina, Brazil	1486.3
+-26.116667°,-049.8°	Rua Pereira Oliveira, Mafra, Santa Catarina, Brazil	1378.4
+-27.418132°,-048.953278°	Rodovia Walter Vicente Gomes, Major Gercino, Santa Catarina, Brazil	1276.4
+-26.316667°,-050.333333°	Rodovia Aroldo Carneiro de Carvalho, Major Vieira, Santa Catarina, Brazil	1360.5
+-28.847516°,-049.454739°	Avenida Getúlio Vargas, Maracajá, Santa Catarina, Brazil	1418.6
+-26.760501°,-053.174787°	Avenida Euclides da Cunha, Maravilha, Santa Catarina, Brazil	1545.8
+-26.610872°,-049.009214°	Rua 25 de Julho, Massaranduba, Santa Catarina, Brazil	1287.3
+-26.45°,-051.15°	unnamed road, Matos Costa, Santa Catarina, Brazil	1408.3
+-28.831967°,-049.636583°	Rua Alberto Búrigo, Meleiro, Santa Catarina, Brazil	1383.5
+-27.201199°,-050.067725°	Rua Alfredo Cordeiro, Mirim Doce, Santa Catarina, Brazil	1298.9
+-28.77833°,-053.05528°	unnamed road, Quinze de Novembro, Rio Grande do Sul, Brazil	1550.5
+-27.102578°,-053.399463°	Rua Guarani, Mondaí, Santa Catarina, Brazil	1515.4
+-27.222778°,-050.979722°	Rodovia Carlos Pisani, Monte Carlo, Santa Catarina, Brazil	1484.5
+-26.46112°,-050.228424°	Rua Coronel Otávio Xavier Rauen, Monte Castelo, Santa Catarina, Brazil	1369.7
+-28.652303°,-049.210688°	Rua Vinte de Maio, Morro da Fumaça, Santa Catarina, Brazil	1422.8
+-26.899471°,-048.655318°	Avenida Santos Dumont, Navegantes, Santa Catarina, Brazil	1385.3
+-26.9025°,-052.9058°	Rua Anita Garibaldi, Nova Erechim, Santa Catarina, Brazil	1546.7
+-26.9397°,-052.8122°	Rua Basílio Daniel, Nova Itaberaba, Santa Catarina, Brazil	1534.9
+-27.286153°,-048.930107°	Rua Santo Inácio, Nova Trento, Santa Catarina, Brazil	1297.8
+-28.637042°,-049.498366°	Rua Cônego Miguel Giacca, Nova Veneza, Santa Catarina, Brazil	1347.9
+-26.448479°,-052.832146°	unnamed road, Novo Horizonte, Santa Catarina, Brazil	1553.5
+-28.35°,-049.3°	Rua Augusto Baggio, Orleans, Santa Catarina, Brazil	1362.2
+-27.5667°,-050.116699°	unnamed road, Palmeira, Santa Catarina, Brazil	1372.7
+-27.331392°,-051.598818°	Rua João XXIII, Ouro, Santa Catarina, Brazil	1515.6
+-26.6944°,-052.3119°	Rua Adriano Benedeti, Ouro Verde, Santa Catarina, Brazil	1554.6
+-27.2522°,-052.4981°	SC-483, Paial, Santa Catarina, Brazil	1499.6
+-27.916667°,-050.1°	Estrada da Casa de Pedra, Painel, Santa Catarina, Brazil	1481.3
+-27.644444°,-048.667778°	Servidão Aurino Pierri, Palhoça, Santa Catarina, Brazil	1388.6
+-26.3475°,-053.2783°	Avenida Crestani, Palma Sola, Santa Catarina, Brazil	1585.8
+-10.184506°,-048.33466°	Tocantins, Palmas, Tocantins, Brazil	1632.8
+-27.582778°,-050.158889°	Rua Elisário Lemos de Jesus, Palmeira, Santa Catarina, Brazil	1378.1
+-27.071863°,-053.159463°	Rua Padre Anchieta, Palmitos, Santa Catarina, Brazil	1533.8
+-26.405736°,-050.145705°	Rua Tenente Ary Rauen, Papanduva, Santa Catarina, Brazil	1360.5
+-26.613889°,-053.671944°	Rodovia Ulysses Guimarães, Paraíso, Santa Catarina, Brazil	1552.0
+-29.335°,-049.7228°	Rua Leonardo Truda, Torres, Rio Grande do Sul, Brazil	1475.1
+-26.78°,-052.0594°	Rua Ângelo Dalla Vechia, Passos Maia, Santa Catarina, Brazil	1549.0
+-28.435761°,-049.184622°	Rua Teodoro Zabot, Pedras Grandes, Santa Catarina, Brazil	1373.0
+-26.769694°,-048.645852°	Rua Joaquim Antônio Simão, Penha, Santa Catarina, Brazil	1383.5
+-27.373557°,-051.904537°	Rua José Bonifácio, Peritiba, Santa Catarina, Brazil	1523.4
+-28.383333°,-048.883333°	unnamed road, Pescaria Brava, Santa Catarina, Brazil	1406.1
+-08.981223°,-038.220234°	Rua da Matriz, Petrolândia, Pernambuco, Brazil	1658.5
+-26.764538°,-048.671728°	Rua Norberto Bachmann, Balneário Piçarras, Santa Catarina, Brazil	1379.2
+-26.838412°,-052.987101°	Avenida Brasília, Pinhalzinho, Santa Catarina, Brazil	1545.1
+-27.046972°,-051.229585°	Avenida Marechal Castelo Branco, Pinheiro Preto, Santa Catarina, Brazil	1480.3
+-27.45°,-051.8°	unnamed road, Piratuba, Santa Catarina, Brazil	1536.3
+-27.0703°,-052.8656°	Avenida Brasil, Planalto Alegre, Santa Catarina, Brazil	1552.5
+-26.740752°,-049.175942°	Rua XV de Novembro, Pomerode, Santa Catarina, Brazil	1263.2
+-27.483804°,-050.378852°	Rua Rio do Sul, Ponte Alta, Santa Catarina, Brazil	1423.5
+-27.158333°,-050.464444°	Rua Elídio Pereira, Ponte Alta do Norte, Santa Catarina, Brazil	1427.4
+-26.866667°,-051.966667°	Estrada Rio do Mato, Ponte Serrada, Santa Catarina, Brazil	1556.5
+-27.158154°,-048.553669°	Avenida Governador Celso Ramos, Porto Belo, Santa Catarina, Brazil	1401.3
+-26.253423°,-051.079308°	Rua Alfredo Scultetos, Porto União, Santa Catarina, Brazil	1357.1
+-27.25°,-049.95°	Marginal da BR-470, Pouso Redondo, Santa Catarina, Brazil	1329.3
+-27.21935°,-051.811089°	Avenida 17 de Fevereiro, Presidente Castello Branco, Santa Catarina, Brazil	1513.3
+-27.05°,-049.616667°	Rua Engenheiro Ehremberger, Presidente Getúlio, Santa Catarina, Brazil	1328.0
+-27.2772°,-049.3903°	Avenida João XXIII, Presidente Nereu, Santa Catarina, Brazil	1306.9
+-26.441944°,-053.597778°	unnamed road, Princesa, Santa Catarina, Brazil	1558.2
+-26.727255°,-052.719885°	Avenida Coronel Ernesto Bertaso, Quilombo, Santa Catarina, Brazil	1537.9
+-27.6725°,-049.0217°	Rua Vereador Engelberto Koester, Rancho Queimado, Santa Catarina, Brazil	1345.7
+-26.898103°,-051.074701°	Rua do Comércio, Rio das Antas, Santa Catarina, Brazil	1464.2
+-26.966667°,-050.15°	Rodovia Deputado João Bertoli, Rio do Campo, Santa Catarina, Brazil	1297.8
+-27.194664°,-049.793435°	Rua 7 de Setembro, Rio do Oeste, Santa Catarina, Brazil	1315.5
+-27.214455°,-049.643503°	Rua Dom Bosco, Rio do Sul, Santa Catarina, Brazil	1325.4
+-26.738112°,-049.272563°	Avenida Tiradentes, Rio dos Cedros, Santa Catarina, Brazil	1274.5
+-26.254538°,-049.518566°	Avenida dos Imigrantes, Rio Negrinho, Santa Catarina, Brazil	1356.6
+-26.105833°,-049.797778°	Rua XV de Novembro, Rio Negro, Paraná, Brazil	1379.6
+-27.866667°,-049.783333°	Rua Florinda Maria de Jesus, Rio Rufino, Santa Catarina, Brazil	1418.0
+-27.069434°,-053.325263°	Rua Frederico Pfitzenmeier, Riqueza, Santa Catarina, Brazil	1514.3
+-26.914404°,-049.364687°	Rua Barão do Rio Branco, Rodeio, Santa Catarina, Brazil	1270.5
+-26.633333°,-053.316667°	unnamed road, Romelândia, Santa Catarina, Brazil	1542.8
+-26.978183°,-050.004638°	Rua Luiz Bertoli, Salete, Santa Catarina, Brazil	1294.7
+-26.605488°,-053.059033°	Rua Francisco Bosch, Saltinho, Santa Catarina, Brazil	1536.4
+-26.904472°,-051.406856°	Rua João Domingos Cantu, Salto Veloso, Santa Catarina, Brazil	1489.6
+-28.639811°,-049.125082°	Rua 27 de Setembro, Sangão, Santa Catarina, Brazil	1416.4
+-26.96038°,-050.416306°	Avenida Leoberto Leal, Santa Cecília, Santa Catarina, Brazil	1422.2
+-26.938647°,-053.61935°	Rua Cristóvão Colombo, Santa Helena, Santa Catarina, Brazil	1545.6
+-29.1361°,-049.7°	unnamed road, Santa Rosa do Sul, Santa Catarina, Brazil	1417.8
+-10.47°,-050.502778°	unnamed road, Santa Terezinha, Mato Grosso, Brazil	1633.1
+-26.6189°,-053.2017°	Rua 12 de Maio, Santa Terezinha do Progresso, Santa Catarina, Brazil	1525.8
+-26.6394°,-052.6847°	Linha Picolli, Santiago do Sul, Santa Catarina, Brazil	1544.5
+-27.687778°,-048.778889°	Rua Vereador Dulfe V. da Silva, Santo Amaro da Imperatriz, Santa Catarina, Brazil	1330.5
+-26.25°,-049.383333°	Avenida Nereu Ramos, São Bento do Sul, Santa Catarina, Brazil	1364.0
+-26.47°,-052.9644°	unnamed road, São Bernardino, Santa Catarina, Brazil	1543.1
+-22.016717°,-047.891971°	Rua Major José Ignácio, Jardim Santa Felícia, São Paulo, Brazil	1641.4
+-27.266667°,-050.440556°	Rua Afonso Pena, São Cristóvão do Sul, Santa Catarina, Brazil	1430.3
+-26.557778°,-052.531944°	Rua Getúlio Vargas, São Domingos, Santa Catarina, Brazil	1563.2
+-26.242778°,-048.637778°	Rua Jorge Baggenstoss, São Francisco do Sul, Santa Catarina, Brazil	1268.1
+-27.275833°,-048.848889°	Rua João José Dias Jr., São João Batista, Santa Catarina, Brazil	1324.6
+-26.6178°,-048.7681°	Rua Prefeito José Acácio Delmonego, São João do Itaperiú, Santa Catarina, Brazil	1308.6
+-27.099197°,-053.592704°	Rua Rio Pardo, São João do Oeste, Santa Catarina, Brazil	1517.8
+-29.223446°,-049.806682°	Rua Manoel Amândio de Borba, São João do Sul, Santa Catarina, Brazil	1420.1
+-28.294192°,-049.938923°	Rua Sebastião Furtado, São Joaquim, Santa Catarina, Brazil	1552.4
+-27.662963°,-050.581452°	Rua Teodoro Corrêa de Melo, São José do Cerrito, Santa Catarina, Brazil	1442.1
+-26.45523°,-053.507644°	Avenida Rio Grande do Sul, São José do Cedro, Santa Catarina, Brazil	1569.6
+-27.662963°,-050.581452°	Rua Teodoro Corrêa de Melo, São José do Cerrito, Santa Catarina, Brazil	1442.1
+-26.356544°,-052.850243°	Rua Rui Barbosa, São Lourenço do Oeste, Santa Catarina, Brazil	1589.2
+-26.692074°,-053.255683°	Rua João Hugo Hoss, São Miguel da Boa Vista, Santa Catarina, Brazil	1539.9
+-26.726395°,-053.517879°	Rua Duque de Caxias, São Miguel do Oeste, Santa Catarina, Brazil	1555.5
+-27.565833°,-048.805°	Rua João Carlos Clasen, São Pedro de Alcântara, Santa Catarina, Brazil	1309.9
+-26.925994°,-053.00479°	Avenida Brasil, Saudades, Santa Catarina, Brazil	1526.4
+-26.407222°,-049.072778°	Rua Barão do Rio Branco, Schroeder, Santa Catarina, Brazil	1232.4
+-27.157296°,-052.314524°	Rua Herculano Hercules Zanuzzo, Seara, Santa Catarina, Brazil	1510.4
+-26.727674°,-053.043509°	Rua Vinte e Oito de Abril, Serra Alta, Santa Catarina, Brazil	1556.3
+-28.598963°,-049.425534°	Avenida Municipal Prefeito Manoel Minelvina Garcia, Siderópolis, Santa Catarina, Brazil	1351.1
+-29.1039°,-049.6289°	Avenida Quintino Manoel Domingos, Sombrio, Santa Catarina, Brazil	1449.1
+-26.741123°,-052.969914°	Rodovia Sul Brasil, Sul Brasil, Santa Catarina, Brazil	1520.6
+-27.1°,-049.983333°	unnamed road, Taió, Santa Catarina, Brazil	1301.8
+-27.101908°,-051.246467°	Rua Sete de Setembro, Tangará, Santa Catarina, Brazil	1485.1
+-26.686839°,-053.156985°	Avenida Felipe Baczinski, Tigrinhos, Santa Catarina, Brazil	1548.6
+-27.240493°,-048.641373°	Rua 13 de Maio, Tijucas, Santa Catarina, Brazil	1361.7
+-26.822778°,-049.271944°	Rua Germano Brandes Sênior, Timbó, Santa Catarina, Brazil	1303.0
+-26.615°,-050.6742°	Rua João Granemann, Timbó Grande, Santa Catarina, Brazil	1375.9
+-26.1064°,-050.3222°	Rua Prefeito Mery Seleme, Três Barras, Santa Catarina, Brazil	1371.0
+-28.559279°,-049.147969°	Rua Governador Ivo Silveira, Treze de Maio, Santa Catarina, Brazil	1393.3
+-27.001944°,-051.405833°	Rua Germânica, Treze Tílias, Santa Catarina, Brazil	1519.3
+-27.30086°,-049.792257°	unnamed road, Trombudo Central, Santa Catarina, Brazil	1327.7
+-28.476482°,-049.016995°	Rua Simeão Esmeraldino de Menezes, Tubarão, Santa Catarina, Brazil	1421.9
+-26.971631°,-053.63585°	Rua São Miguel, Tunápolis, Santa Catarina, Brazil	1525.3
+-28.925833°,-049.678889°	Rua Ângelo Andrea Scarabelot, Turvo, Santa Catarina, Brazil	1398.4
+-26.763046°,-052.853037°	Rua Concórdia, União do Oeste, Santa Catarina, Brazil	1540.3
+-28.015°,-049.591944°	Rua Cezário Amarante, Urubici, Santa Catarina, Brazil	1420.8
+-27.956954°,-049.87453°	Rodovia das Araucárias, Urupema, Santa Catarina, Brazil	1427.9
+-26.860689°,-052.155964°	Avenida 21 de Abril, Vargeão, Santa Catarina, Brazil	1558.5
+-20.330526°,-046.36686°	Rua Ubirajara Lima, Vargem Bonita, Minas Gerais, Brazil	1590.6
+-20.330526°,-046.36686°	Rua Ubirajara Lima, Vargem Bonita, Minas Gerais, Brazil	1590.6
+-27.397°,-049.375051°	SC-486, Vidal Ramos, Santa Catarina, Brazil	1274.6
+-27.008035°,-051.152297°	Rua Padre Anchieta, Videira, Santa Catarina, Brazil	1469.6
+-26.880136°,-049.833507°	Rua Santa Catarina, Vítor Meireles, Santa Catarina, Brazil	1314.1
+-26.933333°,-049.8°	unnamed road, Witmarsum, Santa Catarina, Brazil	1315.7
+-27.071775°,-052.341673°	Rua da Prefeitura, Xavantina, Santa Catarina, Brazil	1521.0
+-27.453701°,-051.554232°	Rua Otaviano Francescki, Zortéa, Santa Catarina, Brazil	1550.2
+-29.648783°,-053.260975°	Rodovia do Imigrante, Agudo, Rio Grande do Sul, Brazil	1487.7
+-29.334357°,-053.086511°	Rua Padre Afonso Diehl, Arroio do Tigre, Rio Grande do Sul, Brazil	1527.1
+-30.515955°,-053.483078°	Rua Coronel Coriolano de Castro, Caçapava do Sul, Rio Grande do Sul, Brazil	1546.0
+-30.039167°,-052.893889°	Rua Ernesto Alves, Cachoeira do Sul, Rio Grande do Sul, Brazil	1513.9
+-29.672°,-052.787°	Avenida Pereira Rêgo, Candelária, Rio Grande do Sul, Brazil	1475.0
+-29.653889°,-052.933889°	unnamed road, Cerro Branco, Rio Grande do Sul, Brazil	1463.6
+-29.628156°,-053.364779°	Rodovia do Imigrante, Dona Francisca, Rio Grande do Sul, Brazil	1504.0
+-30.533333°,-052.516667°	unnamed road, Encruzilhada do Sul, Rio Grande do Sul, Brazil	1527.3
+-29.176944°,-053.158889°	Avenida Lauro Billig de Castilhos, Estrela Velha, Rio Grande do Sul, Brazil	1550.7
+-29.616699°,-053.4333°	unnamed road, São João do Polêsine, Rio Grande do Sul, Brazil	1510.9
+-29.424182°,-053.127315°	Rua Julio Bridi, Ibarama, Rio Grande do Sul, Brazil	1512.8
+-29.225881°,-053.68474°	Avenida Ildefonso Cesar, Julio de Castilhos, Rio Grande do Sul, Brazil	1563.6
+-29.488889°,-053.013889°	Avenida José Luchese, Lagoa Bonita do Sul, Rio Grande do Sul, Brazil	1531.8
+-29.221979°,-052.772506°	Rua Maurílio Nunes, Lagoão, Rio Grande do Sul, Brazil	1530.8
+-30.810783°,-053.898036°	Rua Coronel Mesa, Lavras do Sul, Rio Grande do Sul, Brazil	1531.9
+-29.471944°,-053.468889°	Rua João Volcato, Nova Palma, Rio Grande do Sul, Brazil	1488.3
+-29.735°,-052.947778°	Avenida Vinte e Oito de Dezembro, Novo Cabrais, Rio Grande do Sul, Brazil	1478.8
+-29.731352°,-053.181799°	Rua Max Retzlaff, Paraíso do Sul, Rio Grande do Sul, Brazil	1505.2
+-29.451632°,-052.964698°	Avenida Pinheiro, Passa Sete, Rio Grande do Sul, Brazil	1522.6
+-29.346111°,-053.306667°	Rua César Rubim, Pinhal Grande, Rio Grande do Sul, Brazil	1526.8
+-29.816667°,-053.383333°	Rua Coronel Horacio Borges, Restinga Sêca, Rio Grande do Sul, Brazil	1512.9
+-29.98425°,-052.371286°	Rua Treze de Maio, Rio Pardo, Rio Grande do Sul, Brazil	1491.5
+-29.087778°,-053.212778°	Rua Alberto Pasqualini, Salto do Jacuí, Rio Grande do Sul, Brazil	1550.3
+-30.339472°,-054.088387°	Rua Tarumã, Santa Margarida do Sul, Rio Grande do Sul, Brazil	1567.6
+-29.499572°,-050.994°	Rua Benno Closs, Santa Maria do Herval, Rio Grande do Sul, Brazil	1411.3
+-30.337029°,-054.321724°	Rua Coronel Soares, Sede, Rio Grande do Sul, Brazil	1562.9
+-30.169015°,-053.571881°	Rua 7 de Setembro, Sede, Rio Grande do Sul, Brazil	1533.7
+-29.268889°,-053.011944°	Avenida Ottmar Von Borowski, Tamanduá, Rio Grande do Sul, Brazil	1536.5
+-29.415767°,-053.028639°	Rua Paulino Bridi, Sobradinho, Rio Grande do Sul, Brazil	1521.9
+-30.342257°,-053.885127°	Rua Quatro, Vila Nova do Sul, Rio Grande do Sul, Brazil	1557.5
+-16.764444°,-049.436944°	Avenida Dom Felipe, Abadia de Goiás, Goiás, Brazil	1706.0
+-16.197982°,-048.705474°	Avenida Geraldo Rodrigues Santos, Abadiânia, Goiás, Brazil	1713.5
+-17.395556°,-050.368333°	Rua C 6, Acreúna, Goiás, Brazil	1696.1
+-16.394167°,-050.167778°	unnamed road, Adelândia, Goiás, Brazil	1692.6
+-14.980833°,-047.768889°	unnamed road, Água Fria de Goiás, Goiás, Brazil	1698.4
+-18.074829°,-048.762376°	Rua José Cândido Guimarães, Água Limpa, Goiás, Brazil	1704.6
+-15.754444°,-048.281944°	unnamed road, Águas Lindas de Goiás, Goiás, Brazil	1682.5
+-16.078611°,-048.500833°	Avenida Nelson Santos, Alexânia, Goiás, Brazil	1696.3
+-17.728333°,-049.470556°	GO-213, Morrinhos, Goiás, Brazil	1706.7
+-14.194494°,-049.340016°	Avenida Maracana, Alto Horizonte, Goiás, Brazil	1695.7
+-14.133333°,-047.516667°	Avenida Ary Valadão Filho, Alto Paraíso de Goiás, Goiás, Brazil	1674.5
+-14.484597°,-046.494895°	unnamed road, Alvorada do Norte, Goiás, Brazil	1720.1
+-13.915958°,-049.29256°	unnamed road, Amaralina, Goiás, Brazil	1682.8
+-16.255556°,-049.9825°	Rua Mariano Gonçalves, Americano do Brasil, Goiás, Brazil	1697.5
+-16.617778°,-051.093333°	Rua Euclides da Cunha, Amorinópolis, Goiás, Brazil	1708.8
+-16.327401°,-048.953322°	Rua Desembargador Jaime, Anápolis, Goiás, Brazil	1689.2
+-18.336944°,-048.218889°	Rua Abilio Gançalves Rios, Anhanguera, Goiás, Brazil	1691.4
+-16.464533°,-049.953979°	Rua 02, Anicuns, Goiás, Brazil	1685.8
+-16.822778°,-049.225556°	Avenida João R. de Oliveira, Aparecida de Goiânia, Goiás, Brazil	1706.9
+-18.300194°,-051.151361°	Rua Eduardo Siqueira, Aparecida do Rio Doce, Goiás, Brazil	1673.6
+-18.961111°,-051.921667°	Avenida Juventino Alves dos Santos, Aporé, Goiás, Brazil	1679.2
+-16.358524°,-049.67996°	Avenida João de Faria, Araçu, Goiás, Brazil	1678.3
+-15.9025°,-052.241944°	Rua Pastor Waldemar Nogueira Ramos, Aragarças, Goiás, Brazil	1663.0
+-16.914167°,-049.4525°	GO-040, Aragoiânia, Goiás, Brazil	1710.6
+-15.09°,-050.627222°	Avenida Coimbra Bueno, Araguapaz, Goiás, Brazil	1688.1
+-16.385402°,-051.560227°	Avenida Marcelino Domingos Monteiro, Arenópolis, Goiás, Brazil	1687.7
+-14.930833°,-051.03°	Aruanã, Goiás, Brazil	1701.6
+-16.683299°,-050.462878°	Rua Venancio Taveira de Matos, Aurilândia, Goiás, Brazil	1705.5
+-16.45°,-049.75°	unnamed road, Avelinópolis, Goiás, Brazil	1689.7
+-16.196489°,-052.54501°	unnamed road, Baliza, Goiás, Brazil	1679.3
+-14.977858°,-048.92352°	Rua Pedra de Fogo, Barro Alto, Goiás, Brazil	1685.5
+-16.974232°,-048.952924°	Praça Jose Lobo, Bela Vista de Goiás, Goiás, Brazil	1705.9
+-16.200493°,-052.175891°	Rua Joaquim Cardoso, Bom Jardim de Goiás, Goiás, Brazil	1686.2
+-18.22°,-049.7275°	Rua Itumbiara, Bom Jesus de Goiás, Goiás, Brazil	1682.1
+-16.617222°,-048.96°	Rua Maranhao, Bonfinópolis, Goiás, Brazil	1697.1
+-13.653333°,-049.831389°	Rua Rio Gregorio, Bonópolis, Goiás, Brazil	1678.9
+-16.441111°,-049.381667°	unnamed road, Brazabrantes, Goiás, Brazil	1687.6
+-15.247232°,-051.166396°	Rua José Gonçalves Filho, Britânia, Goiás, Brazil	1705.9
+-18.138056°,-049.041667°	Rua Doutor Couto Magalhaes, Buriti Alegre, Goiás, Brazil	1701.7
+-16.15°,-050.433333°	unnamed road, Buriti de Goiás, Goiás, Brazil	1687.7
+-14.474722°,-046.415°	Buritinópolis, Goiás, Brazil	1710.8
+-15.795833°,-046.926944°	unnamed road, Cabeceiras, Goiás, Brazil	1733.7
+-18.760719°,-050.94621°	Rua Castelo Branco, Cachoeira Alta, Goiás, Brazil	1684.1
+-16.6775°,-050.646389°	unnamed road, Cachoeira de Goiás, Goiás, Brazil	1719.9
+-18.490736°,-049.477021°	Rua Maria Zago, Cachoeira Dourada, Goiás, Brazil	1676.4
+-18.559188°,-051.129182°	Rua José Manoel de Castro, Caçu, Goiás, Brazil	1685.8
+-16.968584°,-051.81344°	Avenida Major Neca, Caiapônia, Goiás, Brazil	1686.0
+-17.745°,-048.625°	Avenida Coronel Bento de Godoy, Caldas Novas, Goiás, Brazil	1712.7
+-16.714722°,-048.999444°	Avenida Bernardo Sayão, Caldazinha, Goiás, Brazil	1695.7
+-16.763642°,-049.693558°	Avenida Rui Barbosa, Campestre de Goiás, Goiás, Brazil	1699.3
+-13.790556°,-048.560833°	unnamed road, Campinaçu, Goiás, Brazil	1684.3
+-14.303387°,-049.148444°	Avenida Bernardo Sayão, Campinorte, Goiás, Brazil	1708.5
+-17.639686°,-047.778275°	Rua dos Produtores, Campo Alegre de Goiás, Goiás, Brazil	1694.8
+-16.295°,-049.084722°	unnamed road, Campo Limpo de Goiás, Goiás, Brazil	1674.0
+-13.036944°,-046.771944°	Rua Ciríaco Antônio Cardoso, Campos Belos, Goiás, Brazil	1702.4
+-14.265833°,-049.6475°	Rua Sete, Campos Verdes, Goiás, Brazil	1698.3
+-15.356944°,-049.705833°	Rua T 1, Carmo do Rio Verde, Goiás, Brazil	1683.7
+-18.091134°,-050.222701°	Avenida Moacir Borges de Andrade, Castelândia, Goiás, Brazil	1700.2
+-18.161363°,-047.94346°	Rua José Saturnino de Castro, Catalão, Goiás, Brazil	1705.7
+-16.445001°,-049.490707°	Avenida Miguel Pimenta Lima, Caturaí, Goiás, Brazil	1681.0
+-13.797524°,-047.460408°	unnamed road, Cavalcante, Goiás, Brazil	1674.3
+-15.303333°,-049.605278°	Avenida Bernardo Sayao, Ceres, Goiás, Brazil	1686.7
+-16.970833°,-049.766111°	Rua W 6, Cezarina, Goiás, Brazil	1706.1
+-18.393026°,-052.666461°	GO-206, Chapadão do Céu, Goiás, Brazil	1672.1
+-16.11°,-047.943611°	Rua da Quadra 7 e 8, Cidade Ocidental, Goiás, Brazil	1694.8
+-15.777966°,-048.770054°	Avenida Brasilia, Cocalzinho de Goiás, Goiás, Brazil	1697.3
+-14.151667°,-048.074444°	Rua América, Colinas do Sul, Goiás, Brazil	1677.8
+-16.647222°,-050.547778°	unnamed road, Aurilândia, Goiás, Brazil	1690.4
+-15.924167°,-048.808611°	Rua José J. Veiga, Corumbá de Goiás, Goiás, Brazil	1650.0
+-18.147222°,-048.550278°	Corumbaíba, Goiás, Brazil	1706.4
+-16.768124°,-047.606977°	Rua João José Taveira, Cristalina, Goiás, Brazil	1706.8
+-17.200233°,-048.705699°	Rua Wilson da Paixão, Cristianópolis, Goiás, Brazil	1713.6
+-14.097652°,-050.339953°	Avenida Marechal Deodoro do Fonseca, Nova Crixás, Goiás, Brazil	1671.8
+-17.288889°,-049.379444°	AVENIDA RIO BRANCO, Cromínia, Goiás, Brazil	1708.8
+-18.264595°,-048.150504°	São João batista, Cumari, Goiás, Brazil	1701.3
+-14.563431°,-046.180096°	Rua Piton Farias, Damianópolis, Goiás, Brazil	1712.9
+-16.243889°,-049.352778°	GO-416, Damolândia, Goiás, Brazil	1691.4
+-18.153498°,-047.562835°	Rua Dorcilia Candida de Jesus, Davinópolis, Goiás, Brazil	1703.3
+-16.35°,-051.233299°	Iporá, Goiás, Brazil	1704.3
+-13.290542°,-046.397465°	Rua Manoel Dias, Divinópolis de Goiás, Goiás, Brazil	1678.4
+-16.724722°,-052.307778°	Rua 04, Doverlândia, Goiás, Brazil	1671.2
+-17.426111°,-049.658333°	GO-319 Rua 21, Edealina, Goiás, Brazil	1711.1
+-17.3375°,-049.928611°	unnamed road, Edéia, Goiás, Brazil	1712.9
+-13.876111°,-049.066667°	Rua Pastor Paula, Estrela do Norte, Goiás, Brazil	1669.4
+-15.447319°,-050.362522°	Rua Noronha, Faina, Goiás, Brazil	1688.1
+-16.186524°,-050.779019°	Rua 6, Fazenda Nova, Goiás, Brazil	1708.1
+-16.587692°,-050.308986°	Avenida Rui Barbosa, Firminópolis, Goiás, Brazil	1700.2
+-14.455747°,-047.036322°	Rua 9, Flores de Goiás, Goiás, Brazil	1746.7
+-15.536944°,-047.333889°	Travessa Olímpio Espindola, Formosa, Goiás, Brazil	1725.0
+-13.654444°,-048.875278°	Rua 12, Formoso, Goiás, Brazil	1673.0
+-16.468611°,-048.631944°	Gameleira de Goiás, Goiás, Brazil	1700.7
+-16.507736°,-049.022558°	Avenida Carlos Pina, Goianápolis, Goiás, Brazil	1695.6
+-18.134542°,-048.086091°	Rua Sinfronio Martins Teixeira, Goiandira, Goiás, Brazil	1713.6
+-15.326668°,-049.118454°	rua 29 sul, Goianésia, Goiás, Brazil	1695.3
+-16.680515°,-049.256127°	Praça Doutor Pedro Ludovico Teixeira, Goiânia, Goiás, Brazil	1698.1
+-16.505828°,-049.420693°	Rua 8, Goianira, Goiás, Brazil	1692.4
+-15.922222°,-050.137778°	GO-164, Goiás, Goiás, Brazil	1659.7
+-18.012715°,-049.369835°	Avenida Presidente Vargas, Goiatuba, Goiás, Brazil	1703.8
+-18.44075°,-050.136332°	Avenida João de Oliveira Gouveia, Gouvelândia, Goiás, Brazil	1708.8
+-16.832247°,-049.538253°	Rua-8, Guapó, Goiás, Brazil	1701.4
+-15.745833°,-050.010278°	Guaraíta, Goiás, Brazil	1683.7
+-13.939722°,-046.477222°	Avenida do Contorno, Guarani de Goiás, Goiás, Brazil	1674.5
+-14.731869°,-049.702023°	Rua Bernadino Moreira, Guarinos, Goiás, Brazil	1660.6
+-15.722778°,-049.826667°	Rua Amazonas, Heitoraí, Goiás, Brazil	1704.6
+-16.968191°,-049.231648°	Rua Frei Luís Maria, Hidrolândia, Goiás, Brazil	1712.5
+-14.722905°,-049.467028°	Rua Jose de Godoy, Hidrolina, Goiás, Brazil	1666.9
+-14.101206°,-046.632413°	Avenida Paraná, Iaciara, Goiás, Brazil	1709.2
+-18.488333°,-049.984444°	Rua Marlene Rosa da Silva Ribeiro, Inaciolândia, Goiás, Brazil	1692.5
+-17.141662°,-049.99206°	Rua Bom Fim, Indiara, Goiás, Brazil	1712.1
+-16.355°,-049.493056°	Rua Joaquim Pedro Vaz, Inhumas, Goiás, Brazil	1682.8
+-17.724937°,-048.159302°	Rua Vereador Luiz de Oliveira, Ipameri, Goiás, Brazil	1689.5
+-15.1725°,-049.668611°	Rua 15 de Novembro, Ipiranga de Goiás, Goiás, Brazil	1690.8
+-16.431726°,-051.108357°	unnamed road, Iporá, Goiás, Brazil	1693.5
+-16.317047°,-050.906718°	Avenida Vereador Jovito Ferreira Soares, Israelândia, Goiás, Brazil	1702.8
+-16.02355°,-049.804837°	Rua Capitão Caldas, Itaberaí, Goiás, Brazil	1704.3
+-15.915833°,-049.600278°	unnamed road, Itaguari, Goiás, Brazil	1711.3
+-15.758769°,-049.633196°	Avenida Joviano Jose da Silva, Itaguaru, Goiás, Brazil	1731.3
+-19.071667°,-051.542778°	Avenida José Luiz Borges, Itajá, Goiás, Brazil	1689.9
+-14.961111°,-049.559444°	Rua M da Cunha, Itapaci, Goiás, Brazil	1692.7
+-15.824981°,-050.601768°	Avenida Amazonas, Itapirapuã, Goiás, Brazil	1703.4
+-15.562219°,-049.945177°	unnamed road, Itapuranga, Goiás, Brazil	1702.4
+-18.768889°,-051.347778°	Avenida São Sebastião, Itarumã, Goiás, Brazil	1701.5
+-16.20364°,-049.604806°	Avenida Belo Horizonte, Itauçu, Goiás, Brazil	1696.5
+-18.416667°,-049.216667°	Rua Três, Itumbiara, Goiás, Brazil	1693.2
+-16.547956°,-050.813851°	unnamed road, Ivolândia, Goiás, Brazil	1696.1
+-17.041944°,-050.143333°	Rodovia GO-320, Jandaia, Goiás, Brazil	1706.4
+-15.739722°,-049.334722°	Avenida Tiradentes, Jaraguá, Goiás, Brazil	1705.6
+-17.887517°,-051.726033°	Rua Inácio José de Melo, Jataí, Goiás, Brazil	1660.2
+-16.198333°,-050.926944°	unnamed road, Jaupaci, Goiás, Brazil	1706.0
+-15.937999°,-049.380537°	unnamed road, Jesúpolis, Goiás, Brazil	1711.6
+-17.805538°,-049.614884°	Rua Pedro Alves Portilho, Joviânia, Goiás, Brazil	1719.9
+-15.864167°,-050.852222°	unnamed road, Jussara, Goiás, Brazil	1699.8
+-19.184122°,-051.399844°	Rua Maria Batista Nunes, Lagoa Santa, Goiás, Brazil	1688.9
+-16.622475°,-048.74218°	Rua Americano do Brasil, Leopoldo de Bulhões, Goiás, Brazil	1714.7
+-16.258245°,-047.935239°	Avenida Goiás, Luziânia, Goiás, Brazil	1716.0
+-17.297082°,-049.49018°	GO-217, Cromínia, Goiás, Brazil	1704.5
+-14.493051°,-046.111328°	GO-236, Mambaí, Goiás, Brazil	1703.0
+-14.017222°,-049.176389°	Rua Espirito Santo, Mara Rosa, Goiás, Brazil	1681.7
+-17.979871°,-048.643366°	Rua 7 de Setembro, Marzagão, Goiás, Brazil	1697.4
+-15.435724°,-050.743813°	Rua Quinze de Novembro, Matrinchã, Goiás, Brazil	1693.1
+-17.985179°,-050.339147°	Rua Santa Helena, Maurilândia, Goiás, Brazil	1707.6
+-15.064722°,-048.158333°	Rua 12, Mimoso de Goiás, Goiás, Brazil	1696.7
+-13.531698°,-048.216742°	unnamed road, Minaçu, Goiás, Brazil	1685.5
+-17.578826°,-052.54315°	Avenida Rio Branco, Mineiros, Goiás, Brazil	1680.6
+-16.540255°,-050.73345°	GO-444, Messianópolis, Goiás, Brazil	1710.9
+-13.255833°,-046.900833°	GO-118, Monte Alegre de Goiás, Goiás, Brazil	1714.0
+-16.011667°,-051.386944°	GO-174, Montes Claros de Goiás, Goiás, Brazil	1688.6
+-17.438056°,-051.1275°	unnamed road, Montividiu, Goiás, Brazil	1694.6
+-13.347574°,-048.688103°	Rua Rita Candida de Jesus, Montividiu do Norte, Goiás, Brazil	1665.5
+-17.733149°,-049.117516°	Avenida Saturnino de Azevedo, Morrinhos, Goiás, Brazil	1726.5
+-15.320278°,-050.053333°	GO-156, Morro Agudo de Goiás, Goiás, Brazil	1674.4
+-16.123899°,-050.210738°	Avenida Carajás, Mossâmedes, Goiás, Brazil	1669.4
+-14.748007°,-050.567902°	Rua Marechal Rondon, Mozarlândia, Goiás, Brazil	1683.3
+-13.752478°,-050.283391°	unnamed road, Mundo Novo, Goiás, Brazil	1677.5
+-13.734533°,-049.280772°	Estrada para Amaralina, Mutunópolis, Goiás, Brazil	1684.9
+-16.5863°,-049.8925°	unnamed road, Nazário, Goiás, Brazil	1695.3
+-16.406327°,-049.218719°	Rua Pedro Jose de Carvalho, Nerópolis, Goiás, Brazil	1683.2
+-14.469832°,-048.459217°	Rua Romada da Silva Rocha, Niquelândia, Goiás, Brazil	1668.8
+-15.01986°,-049.896476°	Avenida America do Couto, Nova América, Goiás, Brazil	1680.5
+-18.058196°,-048.255513°	Rua Goias, Nova Aurora, Goiás, Brazil	1707.7
+-14.097652°,-050.339953°	Avenida Marechal Deodoro do Fonseca, Nova Crixás, Goiás, Brazil	1671.8
+-15.150556°,-049.573056°	Rua Ernane Macedo, Nova Glória, Goiás, Brazil	1692.2
+-14.285866°,-049.390692°	Rua Tiradentes, Nova Iguaçu de Goiás, Goiás, Brazil	1702.1
+-13.74202°,-046.881954°	Avenida Deputado Benedito Vaz, Nova Roma, Goiás, Brazil	1721.2
+-16.273056°,-049.323889°	unnamed road, Nova Veneza, Goiás, Brazil	1684.7
+-16.045666°,-050.712726°	Rua D, Novo Brasil, Goiás, Brazil	1711.0
+-16.051412°,-048.031781°	Rua 3 - 1HI, Novo Gama, Goiás, Brazil	1691.6
+-13.236666°,-049.499374°	Rua Boiadeira, Novo Planalto, Goiás, Brazil	1680.4
+-17.035726°,-048.296727°	Rua Noniato Teixeira França, Orizona, Goiás, Brazil	1710.4
+-16.220366°,-049.194338°	Rua Alvorada, Ouro Verde de Goiás, Goiás, Brazil	1694.8
+-18.238076°,-047.844487°	Rodovia Gustavo Capanema, Ouvidor, Goiás, Brazil	1706.0
+-15.35444°,-040.51056°	Ribeirão do Largo, Bahia, Brazil	1459.0
+-16.749444°,-051.511389°	Palestina de Goiás, Goiás, Brazil	1695.9
+-16.793333°,-049.885278°	unnamed road, Palmeiras de Goiás, Goiás, Brazil	1709.9
+-17.325°,-048.422222°	Avenida 03 - Padre João Saint Clair da Cruz, Palmelo, Goiás, Brazil	1708.3
+-16.796242°,-050.164711°	Rua Pedro Geraldo Lopes, Palminópolis, Goiás, Brazil	1711.1
+-18.181075°,-049.353114°	Rua Dona Santa Batista, Panamá, Goiás, Brazil	1701.6
+-18.910676°,-050.653197°	Avenida Oscar Bernardes, Paranaiguara, Goiás, Brazil	1694.8
+-16.951111°,-050.410278°	Paraúna, Goiás, Brazil	1702.0
+-17.530461°,-052.062005°	AVENIDA ALTINO MORAES DE CARVALHO, Perolândia, Goiás, Brazil	1688.5
+-16.095278°,-049.336667°	Avenida Diassis de Brito, Petrolina de Goiás, Goiás, Brazil	1705.2
+-14.764041°,-049.578854°	Rua da Matriz, Pilar de Goiás, Goiás, Brazil	1673.0
+-17.133333°,-049.016667°	unnamed road, Piracanjuba, Goiás, Brazil	1698.8
+-16.425709°,-051.823636°	Avenida Independencia, Piranhas, Goiás, Brazil	1692.1
+-15.853803°,-048.958553°	unnamed road, Pirenópolis, Goiás, Brazil	1644.9
+-17.300825°,-048.283341°	unnamed road, Pires do Rio, Goiás, Brazil	1715.6
+-15.4839°,-047.6393°	unnamed road, Planaltina, Goiás, Brazil	1718.6
+-17.52°,-049.439167°	Rua 02, Pontalina, Goiás, Brazil	1711.0
+-13.440833°,-049.148889°	Rua Coronel Antonio Martins, Porangatu, Goiás, Brazil	1693.5
+-17.812497°,-050.16511°	Rua Belo Horizonte, Porteirão, Goiás, Brazil	1704.1
+-17.357545°,-052.67442°	Avenida Um, Portelândia, Goiás, Brazil	1694.9
+-14.091611°,-046.364683°	Rua Antônio Marques Golveia, Posse, Goiás, Brazil	1679.2
+-17.255556°,-049.243611°	Rua Benedita Silverio, Professor Jamil, Goiás, Brazil	1714.9
+-18.448056°,-050.446389°	Avenida Joaquim Timóteo de Paula, Quirinópolis, Goiás, Brazil	1696.5
+-15.320071°,-049.575426°	Rua 37, Rialma, Goiás, Brazil	1686.4
+-15.449099°,-049.509847°	RUA GRACIANO COSTA VASCONCELOS, Rianápolis, Goiás, Brazil	1704.4
+-17.771111°,-048.744167°	Acesso ao Transfer, Rio Quente, Goiás, Brazil	1679.9
+-17.790278°,-050.918333°	Rua Treze, Rio Verde, Goiás, Brazil	1689.2
+-15.16697°,-049.804441°	unnamed road, Rubiataba, Goiás, Brazil	1689.7
+-16.201309°,-050.311776°	Rua Sete de setembro, Sanclerlândia, Goiás, Brazil	1698.8
+-16.571944°,-049.695833°	Rua Tomas de Oliveira Lobo, Santa Bárbara de Goiás, Goiás, Brazil	1698.7
+-17.315278°,-048.481667°	Rua Brigadeiro Bernardo Lobo, Santa Cruz de Goiás, Goiás, Brazil	1700.0
+-15.769209°,-051.10314°	RUA JOÃO SOARES, Santa Fé de Goiás, Goiás, Brazil	1690.7
+-17.721389°,-050.603611°	unnamed road, Santa Helena de Goiás, Goiás, Brazil	1711.5
+-15.2875°,-049.426111°	unnamed road, Santa Isabel, Goiás, Brazil	1690.5
+-17.314444°,-053.199167°	unnamed road, Santa Rita do Araguaia, Goiás, Brazil	1682.1
+-15.134418°,-049.117708°	Rua Jaime Gonzaga Sobrinho, Santa Rita do Novo Destino, Goiás, Brazil	1700.2
+-16.086667°,-049.493889°	Rua Conego Jose de Trindade, Vila São Vicente, Goiás, Brazil	1711.9
+-13.715278°,-049.011111°	Rua 03, Santa Tereza de Goiás, Goiás, Brazil	1678.5
+-14.435371°,-049.709553°	Avenida José Elias Sobrinho, Santa Terezinha de Goiás, Goiás, Brazil	1693.8
+-17.561949°,-050.637727°	Rua José Joaqui da Silva - Oeste, Santo Antônio da Barra, Goiás, Brazil	1707.7
+-16.489721°,-049.31102°	Rua Santana, Santo Antônio de Goiás, Goiás, Brazil	1691.3
+-15.943169°,-048.258954°	Rua 7, Santo Antônio do Descoberto, Goiás, Brazil	1671.6
+-13.4075°,-046.314167°	GO-110, São Domingos, Goiás, Brazil	1694.7
+-15.935556°,-049.263056°	Ru aGoiás, São Francisco de Goiás, Goiás, Brazil	1711.6
+-16.810833°,-050.394167°	Rodovia Raul Caiado Fleury, São João da Paraúna, Goiás, Brazil	1711.2
+-16.810833°,-050.394167°	Rodovia Raul Caiado Fleury, São João da Paraúna, Goiás, Brazil	1711.2
+-16.522222°,-050.378889°	Rua 04, São Luís de Montes Belos, Goiás, Brazil	1697.1
+-14.862695°,-049.33139°	Avenida Augusta Maria, São Luiz do Norte, Goiás, Brazil	1701.8
+-13.288889°,-050.154167°	Avenida Centro-Oeste, São Miguel do Araguaia, Goiás, Brazil	1671.8
+-17.058108°,-048.664192°	Avenida Alcides Pereira de Castro, São Miguel do Passa Quatro, Goiás, Brazil	1695.0
+-15.348333°,-049.813889°	Rua 1, São Patrício, Goiás, Brazil	1672.9
+-18.984167°,-050.518611°	unnamed road, São Simão, Goiás, Brazil	1712.4
+-16.759444°,-049.086389°	Vicinal 3, Senador Canedo, Goiás, Brazil	1712.8
+-18.303056°,-051.946944°	unnamed road, Serranópolis, Goiás, Brazil	1679.4
+-16.665609°,-048.610706°	Rua Aprigio José de Souza, Silvânia, Goiás, Brazil	1716.4
+-14.477222°,-046.482222°	unnamed road, Simolândia, Goiás, Brazil	1717.3
+-14.8074°,-046.2509°	GO-108, Sítio d'Abadia, Goiás, Brazil	1706.9
+-16.055266°,-049.607781°	unnamed road, Taquaral de Goiás, Goiás, Brazil	1704.2
+-13.777752°,-047.265153°	Rua 7 de Setembro, Teresina de Goiás, Goiás, Brazil	1702.6
+-16.482907°,-049.091062°	Rua Umbelino Filho, Terezópolis de Goiás, Goiás, Brazil	1677.0
+-18.358333°,-047.776667°	Avenida Francelina Mendes Coelho, Três Ranchos, Goiás, Brazil	1699.5
+-16.65638°,-049.491293°	Rua Coronel Pereira Lima, Trindade, Goiás, Brazil	1700.4
+-13.507829°,-048.742467°	Rua Maria Galvão, Trombas, Goiás, Brazil	1669.6
+-16.610216°,-050.131527°	Rua Doutor Pedro Ludovico Texeira, Turvânia, Goiás, Brazil	1689.1
+-17.847164°,-050.2979°	GO-210, Turvelândia, Goiás, Brazil	1705.3
+-14.283889°,-049.91°	unnamed road, Uirapuru, Goiás, Brazil	1691.6
+-14.525735°,-049.157151°	Avenida Campo Agricola, Uruaçu, Goiás, Brazil	1705.0
+-15.498333°,-049.690833°	Avenida Tocantins, Uruana, Goiás, Brazil	1712.1
+-17.464396°,-048.203474°	Avenida Emidia Carneiro, Urutaí, Goiás, Brazil	1714.5
+-16.068611°,-047.976389°	Avenida Senador Tancredo Neves, Valparaíso de Goiás, Goiás, Brazil	1679.4
+-17.045°,-049.631667°	Rua Joaquim Pires de Oliveira, Varjão, Goiás, Brazil	1696.2
+-16.75°,-048.511111°	unnamed road, Vianópolis, Goiás, Brazil	1716.0
+-17.727778°,-049.789167°	unnamed road, Vicentinópolis, Goiás, Brazil	1714.8
+-15.033611°,-047.047778°	unnamed road, Vila Boa, Goiás, Brazil	1714.9
+-15.4587°,-048.885965°	Rua Uniao, Vila Propício, Goiás, Brazil	1723.6
+-07.910545°,-034.908728°	Rua Sessenta e Um, Abreu e Lima, Pernambuco, Brazil	1595.4
+-07.75°,-037.633333°	Avenida Artur Padilha, Afogados da Ingazeira, Pernambuco, Brazil	1700.2
+-08.512389°,-041.008479°	Rua Três, Afrânio, Pernambuco, Brazil	1705.2
+-08.455105°,-035.947112°	Rua João Guilherme, Agrestina, Pernambuco, Brazil	1549.9
+-08.704594°,-035.521824°	Rua Arthur Bezerra Queiroz, Água Preta, Pernambuco, Brazil	1547.5
+-09.1°,-035.1°	Alagoas, Brazil	1720.7
+-08.688184°,-042.288208°	Coronel José Dias, Piauí, Brazil	1751.7
+-07.603875°,-035.227959°	Rua Coronel Luiz Inacio, Aliança, Pernambuco, Brazil	1551.9
+-08.49°,-036.058889°	Rua Caetano Bento de Figueiredo, Altinho, Pernambuco, Brazil	1549.3
+-08.4°,-035.45°	unnamed road, Amaraji, Pernambuco, Brazil	1468.9
+-08.883333°,-036.283333°	PE-177, Angelim, Pernambuco, Brazil	1575.5
+-07.788056°,-035.089722°	Rua Antonio Carneiro, Araçoiaba, Pernambuco, Brazil	1614.4
+-08.667°,-035.717°	Rua do Encruzamento, Catende, Pernambuco, Brazil	1509.0
+-08.41889°,-037.05389°	Avenida Zeferino Galvão, Arcoverde, Pernambuco, Brazil	1674.1
+-08.491944°,-035.659167°	Bonito, Pernambuco, Brazil	1521.6
+-08.807838°,-035.190642°	unnamed road, Barreiros, Pernambuco, Brazil	1609.7
+-08.6167°,-035.849998°	unnamed road, Entroncamento, Pernambuco, Brazil	1554.7
+-08.757778°,-038.963889°	Avenida Coronel Jeronimo Pires, Belém do São Francisco, Pernambuco, Brazil	1787.9
+-08.333894°,-036.421192°	Rua Pedro Firmino, Belo Jardim, Pernambuco, Brazil	1528.5
+-08.275833°,-038.033889°	Rua Manoel Jerônimo, Betânia, Pernambuco, Brazil	1654.7
+-08.238017°,-035.764471°	Rua Capitão Pedro Pereira, Bezerros, Pernambuco, Brazil	1519.4
+-07.777778°,-039.940833°	Rua Três Irmãos, Bodocó, Pernambuco, Brazil	1637.2
+-09.169683°,-036.680514°	Travessa Henrique Dias, Bom Conselho, Pernambuco, Brazil	1610.2
+-07.795794°,-035.587352°	Avenida Jose Moreira de Andrade, Bom Jardim, Pernambuco, Brazil	1544.4
+-08.470872°,-035.735345°	Rua Deputado Afrânio Godoi, Bonito, Pernambuco, Brazil	1539.6
+-09.028374°,-036.566907°	Avenida Presidente Tancredo Neves, Brejão, Pernambuco, Brazil	1584.7
+-07.51611°,-037.2861°	unnamed road, São José do Egito, Pernambuco, Brazil	1681.9
+-08.15°,-036.366667°	unnamed road, Brejo da Madre de Deus, Pernambuco, Brazil	1578.3
+-07.96667°,-037.6333°	unnamed road, Quitimbu, Pernambuco, Brazil	1673.9
+-08.616667°,-037.15°	unnamed road, Buíque, Pernambuco, Brazil	1669.2
+-08.287369°,-035.035105°	Rua Teixeira de Sá, Cabo de Santo Agostinho, Pernambuco, Brazil	1601.2
+-08.516667°,-039.316667°	unnamed road, Cabrobó, Pernambuco, Brazil	1699.9
+-08.485833°,-036.232778°	Rua Dez, Cachoeirinha, Pernambuco, Brazil	1604.1
+-08.7728°,-036.6228°	Rua Miguel Quirino dos Santos, Caetés, Pernambuco, Brazil	1605.4
+-08.742202°,-036.338523°	Rua João Alexandre da Silva, Calçado, Pernambuco, Brazil	1595.6
+-07.939979°,-038.152779°	Praça Milton Ferreira Neto, Calumbi, Pernambuco, Brazil	1644.8
+-08.025196°,-034.98138°	Rua Eliza Cabral de Souza, Camaragibe, Pernambuco, Brazil	1585.4
+-08.35°,-035.766667°	Rodovia Deputado Ribeiro Godoy, Camocim de São Félix, Pernambuco, Brazil	1578.6
+-07.41107°,-035.269065°	Rua Agamenon Magalhães, Camutanga, Pernambuco, Brazil	1601.7
+-08.872414°,-036.199159°	Rodovia PE 177, Canhotinho, Pernambuco, Brazil	1553.6
+-08.735°,-036.626944°	Rua Trinta e Um de Março, Capoeiras, Pernambuco, Brazil	1626.3
+-07.806787°,-037.793352°	Travessa Manoel José, Carnaíba, Pernambuco, Brazil	1690.7
+-08.321944°,-038.743889°	Avenida Jose Marcolino Pereira, Carnaubeira da Penha, Pernambuco, Brazil	1637.9
+-07.845168°,-035.25544°	Avenida Estácio Coimbra, Carpina, Pernambuco, Brazil	1595.6
+-08.282778°,-035.975833°	Rua Santo Andre, Caruaru, Pernambuco, Brazil	1572.6
+-07.740833°,-035.720833°	Rua Treze de Maio, Casinhas, Pernambuco, Brazil	1587.3
+-08.666667°,-035.716667°	Rua da Jaqueira, Catende, Pernambuco, Brazil	1509.0
+-07.721944°,-039.238889°	Rua José Jocel Paulo, Cedro, Pernambuco, Brazil	1658.0
+-08.002091°,-035.21353°	Rua Manoel Ribeiro de Barros, Chã de Alegria, Pernambuco, Brazil	1606.8
+-08.241651°,-035.457736°	Rua Justino Gomes, Chã Grande, Pernambuco, Brazil	1578.6
+-07.585986°,-035.10086°	Avenida Olegário Fonseca, Condado, Pernambuco, Brazil	1606.5
+-09.128597°,-036.328927°	Rua Enaura de Holanda, Correntes, Pernambuco, Brazil	1566.5
+-08.466667°,-035.55°	unnamed road, Cortês, Pernambuco, Brazil	1482.3
+-08.005833°,-035.696944°	Rua Severino Rego Medeiros, Cumaru, Pernambuco, Brazil	1555.6
+-08.616944°,-035.95°	Rua Valdemar da Silva, Cupira, Pernambuco, Brazil	1587.8
+-08.0875°,-037.643056°	Avenida João Verissímo, Custódia, Pernambuco, Brazil	1671.8
+-08.447402°,-040.767193°	Travessa Antônio Salustiano, Dormentes, Pernambuco, Brazil	1666.1
+-08.360135°,-035.222137°	Rua Diário de Pernambuco, Escada, Pernambuco, Brazil	1566.8
+-07.513404°,-039.723379°	Rua Franco Alencar, Exu, Pernambuco, Brazil	1598.9
+-07.950833°,-035.388889°	Rua Nova Descoberta, Feira Nova, Pernambuco, Brazil	1577.1
+-03.84036°,-032.4113°	Rua São Miguel, Fernando de Noronha, Pernambuco, Brazil	1728.4
+-07.450299°,-035.244358°	unnamed road, Ferreiros, Pernambuco, Brazil	1571.8
+-07.865833°,-037.975°	Rua Nova, Flores, Pernambuco, Brazil	1641.3
+-08.601°,-038.568°	Rua Capitão Emílio Novaes, Floresta, Pernambuco, Brazil	1664.6
+-07.944253°,-035.920913°	unnamed road, Frei Miguelinho, Pernambuco, Brazil	1576.4
+-08.583333°,-035.383333°	Rua João Mendes da Silva, Gameleira, Pernambuco, Brazil	1555.7
+-08.890278°,-036.492778°	Avenida Santo Antônio, Garanhuns, Pernambuco, Brazil	1598.6
+-07.999431°,-035.29725°	Rua Tamboatá, Glória do Goitá, Pernambuco, Brazil	1599.0
+-07.560833°,-035.002778°	Avenida do Povo, Goiana, Pernambuco, Brazil	1626.0
+-07.716667°,-039.6°	PE-520, Moreilândia, Pernambuco, Brazil	1631.3
+-08.199722°,-035.566667°	Rua Quintino Bocajuva, Gravatá, Pernambuco, Brazil	1575.1
+-09.05°,-036.85°	unnamed road, Iati, Pernambuco, Brazil	1596.6
+-08.537982°,-037.689433°	Rua Duque de Caxias, Ibimirim, Pernambuco, Brazil	1683.3
+-08.583333°,-036.183333°	unnamed road, Ibirajuba, Pernambuco, Brazil	1572.7
+-07.8339°,-034.9058°	Rua Barbosa Lima, Igarassu, Pernambuco, Brazil	1637.7
+-07.833333°,-037.533333°	unnamed road, Iguaracy, Pernambuco, Brazil	1690.7
+-08.90306°,-037.82694°	Rua Juvenal Gomes Araújo, Inajá, Pernambuco, Brazil	1646.2
+-07.67583°,-037.46°	Praça Aristaque José de Veras, Ingazeira, Pernambuco, Brazil	1689.5
+-08.4°,-035.063889°	Travessa Vereador Vasconcelos Gomes, Ipojuca, Pernambuco, Brazil	1604.0
+-07.65°,-040.116667°	unnamed road, Ipubi, Pernambuco, Brazil	1635.1
+-08.812214°,-038.567695°	Floresta, Pernambuco, Brazil	1779.2
+-08.94778°,-037.4228°	unnamed road, Itaíba, Pernambuco, Brazil	1601.4
+-07.74722°,-034.82778°	Rua Nossa Senhora do Pilar, Ilha de Itamaracá, Pernambuco, Brazil	1693.2
+-07.447778°,-035.243889°	Avenida Monsenhor Julio Maria, Ferreiros, Pernambuco, Brazil	1576.1
+-07.380166°,-037.189093°	Rua Treze de Maio, Itapetim, Pernambuco, Brazil	1687.5
+-07.775833°,-034.891944°	unnamed road, Itapissuma, Pernambuco, Brazil	1649.5
+-07.666667°,-035.1°	Travessa Jose Pereira de Lima e Silva, Itaquitinga, Pernambuco, Brazil	1602.0
+-08.112222°,-035.01603°	Avenida Barão de Lucena, Jaboatão, Pernambuco, Brazil	1595.5
+-08.726944°,-035.792778°	Rua da Italia, Jaqueira, Pernambuco, Brazil	1489.2
+-07.984946°,-036.498577°	Rua José Pereira de Araujo, Jataúba, Pernambuco, Brazil	1647.5
+-09.1828°,-038.2689°	Rua ibimirim, Jatobá, Pernambuco, Brazil	1658.6
+-07.859779°,-035.592709°	Rua Doutor José Pontual Lima, João Alfredo, Pernambuco, Brazil	1550.0
+-08.625905°,-035.526351°	Avenida Manoel Jose da Costa Filho, Joaquim Nabuco, Pernambuco, Brazil	1505.7
+-08.707394°,-036.488198°	Rua antonio mariano irmão, Jucati, Pernambuco, Brazil	1645.5
+-08.712325°,-036.41491°	Praça Nossa Senhora do Rosário, Jupi, Pernambuco, Brazil	1640.3
+-08.7178°,-036.1358°	Rua da Compesa, Jurema, Pernambuco, Brazil	1642.3
+-07.847453°,-035.316043°	Rodovia Coronel Francisco do Heraclio, Lagoa do Carro, Pernambuco, Brazil	1562.6
+-07.926909°,-035.296837°	Avenida Manoel José da Silva, Lagoa de Itaenga, Pernambuco, Brazil	1594.8
+-09.126944°,-036.458889°	Rua Capitão Amador Monteiro, Lagoa do Ouro, Pernambuco, Brazil	1603.8
+-08.657778°,-035.9°	unnamed road, Lagoa dos Gatos, Pernambuco, Brazil	1592.5
+-08.992409°,-040.272554°	Rua Olímpio Angelim, Lagoa Grande, Pernambuco, Brazil	1654.3
+-08.662426°,-036.323519°	Avenida Dezenove de Maio, Lajedo, Pernambuco, Brazil	1597.7
+-07.877979°,-035.452835°	Rua Alfredo Gomes e Oliveira, Limoeiro, Pernambuco, Brazil	1528.1
+-07.555°,-035.452778°	Rua Manoel Panguengue, Macaparana, Pernambuco, Brazil	1522.5
+-07.690924°,-035.510286°	Estrada de Siqueira, Machados, Pernambuco, Brazil	1502.8
+-08.963039°,-037.626008°	Praça Nossa Senhora da Conceição, Manari, Pernambuco, Brazil	1660.0
+-08.802778°,-035.828889°	unnamed road, Maraial, Pernambuco, Brazil	1504.3
+-08.1°,-038.733333°	Mirandiba, Pernambuco, Brazil	1676.0
+-07.633574°,-039.550842°	Rua Prefeito José Alves de Queiroz, Moreilândia, Pernambuco, Brazil	1630.9
+-08.11861°,-035.09222°	Rua Artur Mendonça, Moreno, Pernambuco, Brazil	1604.6
+-07.741944°,-035.227778°	Travessa Francisco Simplicio Pessoa, Nazaré da Mata, Pernambuco, Brazil	1551.1
+-08°,-034.883333°	Rua Patricia, Olinda, Pernambuco, Brazil	1652.9
+-07.745°,-035.601944°	Avenida José Baracho de França, Orobó, Pernambuco, Brazil	1562.5
+-08.62°,-039.601944°	Rua Governador Agmenon Magalhães, Orocó, Pernambuco, Brazil	1676.3
+-07.885632°,-040.082953°	Praça Voluntario da Patria, Ouricuri, Pernambuco, Brazil	1624.2
+-08.682778°,-035.591944°	Rua Coronel Izacio, Palmares, Pernambuco, Brazil	1515.2
+-08.933333°,-036.283333°	unnamed road, Angelim, Pernambuco, Brazil	1570.6
+-08.66389°,-036.0058°	Rua Doutor Manoel Borba, Panelas, Pernambuco, Brazil	1563.9
+-08.920088°,-036.658222°	Rua Francisco de Paula Neto, Paranatama, Pernambuco, Brazil	1637.7
+-08.091165°,-039.579014°	Rua Agamenon Magalhães, Parnamirim, Pernambuco, Brazil	1645.3
+-07.995°,-035.580833°	unnamed road, Passira, Pernambuco, Brazil	1520.0
+-07.896944°,-035.18°	Travessa Marechal Deodoro, Paudalho, Pernambuco, Brazil	1601.4
+-07.940833°,-034.872778°	Rua Dom Vital, Paulista, Pernambuco, Brazil	1629.2
+-08.500655°,-036.947858°	Rua Petrolino Lima, Pedra, Pernambuco, Brazil	1583.0
+-07.404545°,-035.111145°	Rua Fernando Cunha Lima, Pedras de Fogo, Paraíba, Brazil	1628.6
+-08.361667°,-036.694722°	Travessa Major Panta, Pesqueira, Pernambuco, Brazil	1557.3
+-08.981223°,-038.220234°	Rua da Matriz, Petrolândia, Pernambuco, Brazil	1658.5
+-09.379181°,-040.512396°	Avenida Fernando Farias, Petrolina, Pernambuco, Brazil	1733.6
+-08.185833°,-036.705°	Avenida Alfredo Magalhães, Poção, Pernambuco, Brazil	1668.5
+-08.140833°,-035.395833°	unnamed road, Pombos, Pernambuco, Brazil	1584.4
+-08.337778°,-035.355°	unnamed road, Primavera, Pernambuco, Brazil	1479.2
+-08.825059°,-036.011524°	Rua Jose Ferreira da Silva, Quipapá, Pernambuco, Brazil	1516.9
+-07.719582°,-037.846788°	Rua Solidonio Pereira, Quixaba, Pernambuco, Brazil	1689.2
+-08.055189°,-034.871176°	Rua do Brum, Recife, Pernambuco, Brazil	1670.5
+-08.133333°,-035.866667°	unnamed road, Riacho das Almas, Pernambuco, Brazil	1542.4
+-08.510213°,-035.37441°	Avenida Radio Clube, Ribeirão, Pernambuco, Brazil	1555.6
+-08.666667°,-035.15°	unnamed road, Rio Formoso, Pernambuco, Brazil	1607.4
+-08.333333°,-035.65°	unnamed road, Sairé, Pernambuco, Brazil	1573.7
+-07.93583°,-035.6328°	unnamed road, Salgadinho, Pernambuco, Brazil	1540.6
+-08.074853°,-039.121207°	Rua Olegario Manoel da Silva, Salgueiro, Pernambuco, Brazil	1636.7
+-08.966667°,-036.65°	Estrada Miracica Saloa, Saloá, Pernambuco, Brazil	1580.3
+-08.361415°,-036.562969°	Avenida João Alves Leite, Sanharó, Pernambuco, Brazil	1574.9
+-08.240256°,-040.332519°	Rua Valdemario Soares, Santa Cruz, Pernambuco, Brazil	1617.4
+-07.818909°,-038.153621°	Rua Joaquim Antonio da Fronte, Santa Cruz da Baixa Verde, Pernambuco, Brazil	1721.4
+-07.954422°,-036.198611°	Rua Amaro Monteiro do Nascimento, Santa Cruz do Capibaribe, Pernambuco, Brazil	1605.0
+-08.162778°,-040.615833°	Rua Ursulino R. da Silva, Santa Filomena, Pernambuco, Brazil	1683.9
+-08.808889°,-039.825°	Rua Monsenhor Angello Sampaio, Santa Maria da Boa Vista, Pernambuco, Brazil	1652.4
+-07.833409°,-035.880779°	Rua Miguel Usanio Neto, Santa Maria do Cambucá, Pernambuco, Brazil	1598.4
+-07.377778°,-037.48°	Rua Silvino Leite, Santa Terezinha, Pernambuco, Brazil	1733.8
+-08.809591°,-035.933661°	Rua Doutor Jose Mariano, São Benedito do Sul, Pernambuco, Brazil	1502.0
+-08.520339°,-036.445346°	unnamed road, São Bento do Una, Pernambuco, Brazil	1575.1
+-08.32835°,-036.139933°	Rua Salustiano Ferreira de Lima, São Caetano, Pernambuco, Brazil	1550.3
+-08.875833°,-036.366944°	Avenida Coronel Jose Fernandes, São João, Pernambuco, Brazil	1615.6
+-08.416667°,-035.85°	unnamed road, São Joaquim do Monte, Pernambuco, Brazil	1514.1
+-08.898483°,-035.145122°	Rua Antonio da Rocha Cavalcante, São José da Coroa Grande, Pernambuco, Brazil	1661.2
+-07.870875°,-038.756287°	unnamed road, São José do Belmonte, Pernambuco, Brazil	1703.6
+-07.47882°,-037.275993°	Travessa Souza Irmão, São José do Egito, Pernambuco, Brazil	1682.3
+-08°,-035.05°	Rua Aloysio Queiroz Monteiro, São Lourenço da Mata, Pernambuco, Brazil	1598.6
+-07.59037°,-035.489756°	Rua João de Araújo, São Vicente Ferrer, Pernambuco, Brazil	1529.6
+-07.983859°,-038.293612°	Rua Monsenhor Pinto de Campos, Serra Talhada, Pernambuco, Brazil	1672.1
+-07.933333°,-039.316667°	unnamed road, Serrita, Pernambuco, Brazil	1645.6
+-08.070556°,-037.265833°	Avenida Agamenon Magalhães, Sertânia, Pernambuco, Brazil	1643.9
+-08.594722°,-035.113889°	Rua Francisca Romana, Sirinhaém, Pernambuco, Brazil	1617.0
+-07.600089°,-037.650718°	Rua Antônio Marços Araujo, Solidão, Pernambuco, Brazil	1714.4
+-07.833333°,-035.75°	unnamed road, Surubim, Pernambuco, Brazil	1575.5
+-07.583333°,-037.55°	unnamed road, Tabira, Pernambuco, Brazil	1693.3
+-08.313964°,-036.293382°	Rua Ines Carmelita de Araujo, Tacaimbó, Pernambuco, Brazil	1528.0
+-09.102436°,-038.150024°	unnamed road, Tacaratu, Pernambuco, Brazil	1642.7
+-08.757358°,-035.103828°	Rua José Carlos Oliveira, Tamandaré, Pernambuco, Brazil	1662.7
+-07.9°,-036.05°	Rua do Hospital, Taquaritinga do Norte, Pernambuco, Brazil	1616.1
+-09.055833°,-036.622778°	unnamed road, Terezinha, Pernambuco, Brazil	1589.0
+-08.23°,-039.375833°	Rua Major Raimundo de Sá, Terra Nova, Pernambuco, Brazil	1649.9
+-07.512585°,-035.318905°	Praça Jader de Andrade, Timbaúba, Pernambuco, Brazil	1551.3
+-08.003302°,-036.060719°	Rua João Soares de Jesus, Toritama, Pernambuco, Brazil	1534.8
+-07.805°,-035.24°	Rua Severino Gomes de Freitas, Tracunhaém, Pernambuco, Brazil	1575.8
+-07.765176°,-040.268408°	Rua Vinte e Nove de Janeiro, Trindade, Pernambuco, Brazil	1645.8
+-07.838705°,-038.100514°	Avenida José Bezerra, Triunfo, Pernambuco, Brazil	1723.3
+-08.754091°,-037.341269°	Rua Tereza Simões, Tupanatinga, Pernambuco, Brazil	1669.0
+-07.600835°,-037.309941°	Rua João Pastora, Tuparetama, Pernambuco, Brazil	1697.3
+-08.57777°,-036.876408°	Rua Antonio Belio, Venturosa, Pernambuco, Brazil	1582.5
+-07.916667°,-038.983333°	unnamed road, Verdejante, Pernambuco, Brazil	1658.1
+-07.77139°,-035.8503°	Rua da Aurora, Vertente do Lério, Pernambuco, Brazil	1586.7
+-07.905406°,-035.988395°	Rua Amaro Joaquim de Santana, Vertentes, Pernambuco, Brazil	1562.2
+-07.666667°,-035.333333°	unnamed road, Vicência, Pernambuco, Brazil	1504.2
+-08.114361°,-035.285757°	Rua Hermenegildo do Amaral Costa, Vitória de Santo Antão, Pernambuco, Brazil	1571.2
+-08.816667°,-035.616667°	Estrada para Usina Santa Terezinha, Xexéu, Pernambuco, Brazil	1533.2
+-18.484312°,-047.404182°	MG-190 Rua Tiradentes, Abadia dos Dourados, Minas Gerais, Brazil	1690.0
+-19.158333°,-045.452222°	Rua Teodoro de Paiva, Abaeté, Minas Gerais, Brazil	1695.1
+-20.3°,-042.483333°	Rua Fortunato de Abreu e Silva, Abre Campo, Minas Gerais, Brazil	1466.0
+-20.35°,-043.15°	Estrada para Goiabeiras, Furquim, Minas Gerais, Brazil	1472.6
+-19.076878°,-042.54773°	unnamed road, Açucena, Minas Gerais, Brazil	1393.0
+-17.995833°,-042.388889°	Praça da Matriz, Água Boa, Minas Gerais, Brazil	1471.0
+-20.055833°,-048.108889°	Rua Vinte e Sete, Água Comprida, Minas Gerais, Brazil	1659.7
+-20.95°,-045.383333°	Estrada dos Maias, Aguanil, Minas Gerais, Brazil	1611.4
+-17.081944°,-040.935833°	Rua Pampam, Águas Formosas, Minas Gerais, Brazil	1470.5
+-15.75°,-041.466667°	Rua Anfilofio José das Virgens, Águas Vermelhas, Minas Gerais, Brazil	1501.8
+-19.49583°,-041.06389°	Rua Frei Pio Maria Nierga, Aimorés, Minas Gerais, Brazil	1463.6
+-21.976435°,-044.603457°	Rua Coronel Oswald, Aiuruoca, Minas Gerais, Brazil	1556.9
+-22.166667°,-044.633333°	unnamed road, Alagoa, Minas Gerais, Brazil	1496.8
+-22.200833°,-046.615833°	Rua João Moriconi, Albertina, Minas Gerais, Brazil	1599.9
+-21.879101°,-042.694853°	Rua São Geraldo, Além Paraíba, Minas Gerais, Brazil	1444.9
+-21.433333°,-045.95°	Rua Expedicionário Celso Raciop, Alfenas, Minas Gerais, Brazil	1642.1
+-21.145834°,-043.775715°	unnamed road, Alfredo Vasconcelos, Minas Gerais, Brazil	1511.2
+-16.183333°,-040.7°	Rua Pery Ruas Tupy, Almenara, Minas Gerais, Brazil	1487.2
+-18.973889°,-041.97°	unnamed road, Alpercata, Minas Gerais, Brazil	1455.8
+-20.861964°,-046.389105°	Rua Major João Gonçalves, Alpinópolis, Minas Gerais, Brazil	1660.4
+-21.25°,-046.133333°	unnamed road, Alterosa, Minas Gerais, Brazil	1609.4
+-20.516667°,-041.9°	unnamed road, Caparao, Minas Gerais, Brazil	1418.4
+-21.027263°,-043.423702°	Rodovia Padre Geraldo Machado Mendes, Alto Rio Doce, Minas Gerais, Brazil	1469.4
+-19.416441°,-041.727359°	unnamed road, Alvarenga, Minas Gerais, Brazil	1364.0
+-20.10762°,-043.057538°	Rua Padre José Marciano, Alvinópolis, Minas Gerais, Brazil	1437.4
+-18.732585°,-043.365081°	Rua Tiradentes, Alvorada de Minas, Minas Gerais, Brazil	1469.9
+-20.50817°,-042.79902°	Rua Nossa Senhora da Conceição, Amparo da Serra, Minas Gerais, Brazil	1481.3
+-22.073041°,-046.574067°	Praça Coronel Antônio Augusto de Oliveira, Andradas, Minas Gerais, Brazil	1549.4
+-21.733333°,-044.3°	Rua E, Andrelândia, Minas Gerais, Brazil	1543.8
+-17.595962°,-042.165383°	Avenida Independência, Setubinha, Minas Gerais, Brazil	1458.1
+-21.317778°,-043.746944°	Rua Gabriela Resende Chaves, Antônio Carlos, Minas Gerais, Brazil	1500.4
+-19.6243°,-042.8685°	BR-381, Antônio Dias, Minas Gerais, Brazil	1401.3
+-19.198889°,-044.247778°	Rua Inácio Rocha, Araçaí, Minas Gerais, Brazil	1682.0
+-21.33774°,-043.378601°	Rua Vereador José Homem de Toledo, Aracitaba, Minas Gerais, Brazil	1460.2
+-16.853843°,-042.060581°	Rua Floriano Peixoto, Araçuaí, Minas Gerais, Brazil	1557.1
+-18.648889°,-048.186944°	Rua José Patrocínio, Araguari, Minas Gerais, Brazil	1731.0
+-21.910833°,-044.255833°	Rua Dona Ovidia, Arantina, Minas Gerais, Brazil	1517.9
+-20.666944°,-042.520833°	Rua Benvindo dos Anjos Macedo, Araponga, Minas Gerais, Brazil	1486.1
+-18.436944°,-049.186944°	Rua Gabriel Dias, Araporã, Minas Gerais, Brazil	1701.5
+-19.035278°,-046.153611°	Rua Abizai Justiniano Ribeiro, Arapuá, Minas Gerais, Brazil	1646.3
+-19.948457°,-045.168306°	Avenida Paraná, Araújos, Minas Gerais, Brazil	1657.2
+-19.592078°,-046.940552°	Praça São Domingos, Araxá, Minas Gerais, Brazil	1676.3
+-20.287414°,-045.540089°	Rua Getúlio Vargas, Arcos, Minas Gerais, Brazil	1652.0
+-21.358038°,-046.146405°	Praça Henrique Vieira, Areado, Minas Gerais, Brazil	1622.7
+-21.616667°,-042.833333°	Rodovia Darcy Ferreira de Toledo, Argirita, Minas Gerais, Brazil	1471.2
+-17.868751°,-042.556374°	unnamed road, Aricanduva, Minas Gerais, Brazil	1474.0
+-15.911944°,-046.096389°	Avenida Dois, Arinos, Minas Gerais, Brazil	1752.0
+-18.036457°,-041.110922°	Rua Cunha Melo, Ataléia, Minas Gerais, Brazil	1421.7
+-18.108889°,-044.266944°	unnamed road, Augusto de Lima, Minas Gerais, Brazil	1698.0
+-21.959954°,-044.891379°	Rua Cônego Monte Raso, Baependi, Minas Gerais, Brazil	1599.0
+-19.291696°,-043.957248°	Avenida Brasil, Baldim, Minas Gerais, Brazil	1666.9
+-20.005833°,-045.976944°	Rua João Bahia, Bambuí, Minas Gerais, Brazil	1654.2
+-15.888448°,-040.563528°	Rua Antõnio da Rocha, Bandeira, Minas Gerais, Brazil	1435.3
+-21.7833°,-046.383301°	Campestre, Minas Gerais, Brazil	1589.0
+-19.945833°,-043.486944°	Rua São Manoel, Barão de Cocais, Minas Gerais, Brazil	1453.3
+-21.216667°,-043.766667°	Rua Mato Grosso, Barbacena, Minas Gerais, Brazil	1524.4
+-20.283333°,-043.05°	unnamed road, Barra Longa, Minas Gerais, Brazil	1453.9
+-21.186993°,-043.976486°	Rua Ladislau Magalhães, Barroso, Minas Gerais, Brazil	1538.1
+-19.828985°,-043.0919°	Avenida José Modesto de Ávila, Bela Vista de Minas, Minas Gerais, Brazil	1486.5
+-21.95°,-043.416667°	Rua Osório Dama, Belmiro Braga, Minas Gerais, Brazil	1429.5
+-19.918177°,-043.937053°	Avenida Amazonas, Regional Centro-Sul, Minas Gerais, Brazil	1639.4
+-19.22°,-042.483889°	Rua José Geraldo Rodrigues, Belo Oriente, Minas Gerais, Brazil	1458.1
+-20.40549°,-044.017311°	unnamed road, Belo Vale, Minas Gerais, Brazil	1591.1
+-16.951944°,-042.465833°	Avenida JK, Berilo, Minas Gerais, Brazil	1545.4
+-15.612778°,-041.745°	Rua Brasiliano Ferreira Souto, Berizal, Minas Gerais, Brazil	1527.3
+-17.058703°,-040.571369°	Rua Governador Valadares, Bertópolis, Minas Gerais, Brazil	1459.8
+-19.967279°,-044.198692°	Avenida Nossa Senhora do Carmo, Regional Centro, Minas Gerais, Brazil	1656.0
+-21.606017°,-043.756882°	Rua Prefeito Vieira Fagundes, Bias Fortes, Minas Gerais, Brazil	1430.4
+-21.724825°,-043.05879°	Rua Artur Bernades, Bicas, Minas Gerais, Brazil	1450.2
+-18.784167°,-045.501667°	Rua Gustavo Capanema, Biquinhas, Minas Gerais, Brazil	1702.0
+-21.0953°,-045.561115°	Rua 2 de Novembro, Boa Esperança, Minas Gerais, Brazil	1640.5
+-22.166667°,-044.4°	unnamed road, Bocaina de Minas, Minas Gerais, Brazil	1484.4
+-17.107778°,-043.815°	Praça Cônego Maurício Gaspar, Bocaiuva, Minas Gerais, Brazil	1682.5
+-19.736832°,-045.251584°	Praça da Matriz, Bom Despachoi, Minas Gerais, Brazil	1659.8
+-21.95°,-044.183333°	Rua Américo Verspúcio Marques, Bom Jardim de Minas, Minas Gerais, Brazil	1511.9
+-21.016944°,-046.522778°	Rua João Pires, Bom Jesus da Penha, Minas Gerais, Brazil	1626.1
+-19.709948°,-043.476373°	Avenida Vereador Nhonhô Bicalho, Bom Jesus do Amparo, Minas Gerais, Brazil	1510.3
+-19.833333°,-042.316667°	Rua José Altivo Rocha, Bom Jesus do Galho, Minas Gerais, Brazil	1446.2
+-22.466667°,-046.15°	Rua Pio XI, Bom Repouso, Minas Gerais, Brazil	1592.7
